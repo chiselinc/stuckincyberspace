@@ -1,0 +1,19 @@
+body {background-color: lightblue}
+
+h1 {
+	text-align: center;
+	font-size: 250%;
+}
+
+h2 {
+	text-align: center;
+	font-size: 200%;
+}
+
+p {
+	font-size: 125%;
+}
+
+ol {
+	font-size: 125%;
+}
