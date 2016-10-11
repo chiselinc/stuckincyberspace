@@ -1,0 +1,44 @@
+<!-- don't touch this it's infrastructures -->
+
+<footer class="container-fluid site-footer">
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-6">
+        <header class="footer-heading">
+          <img class="footer-brand" src="/images/logo/logo_v2.png" alt="{{ site.title }}">
+          <ul class="contact-list">
+            <li>{{ site.title }}</li>
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          </ul>
+          <p class="footer-tiny">All icons Creative Commons or Public Domain licensed; attributions in alt-text.</p>
+        </header>
+      </div>
+      <div class="col-md-6">
+        <p class="footer-sub">{{ site.description }}</p>
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+
+          {% if site.reddit_sub %}
+          <li>
+            {% include icon-reddit.html url=site.reddit_sub username='HDC Curated Multi-reddit' %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+</footer>

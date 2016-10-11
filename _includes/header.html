@@ -1,0 +1,37 @@
+<!-- only bother if you need to change the top bar logo -->
+<style>
+  .site-header a.navbar-brand, .site-nav .site-nav-links .nav-item > a {
+    color:{{page.nav_txt_color}};
+  }
+</style>
+<header class="container-fluid site-header" style="background-color:{{page.nav_color}};">
+  <nav class="navbar navbar-full navbar-light site-nav">
+    <div class="container">
+
+      <a class="navbar-brand site-nav-brand" href="{{ site.baseurl }}/">
+        <img src="/images/Profile.png" alt="{{ site.title }}">
+        {{ site.title }}
+      </a>
+
+      <ul class="nav navbar-nav hidden-md-down pull-md-right site-nav-links">
+        <!--  Sample Page 1 Link -->
+        <li class="nav-item">
+          <a href="/page1" class="nav-link">Page1</a>
+        </li>
+        <!--  Sample Page 2 Link -->
+        <li class="nav-item">
+          <a href="/page2" class="nav-link">Page2</a>
+        </li>
+        <!--  Sample Page 3 Link -->
+        <li class="nav-item">
+          <a href="/page3" class="nav-link">Page3</a>
+        </li>
+        <!--  Sample Page 4 Link -->
+        <li class="nav-item">
+          <a href="/page4" class="nav-link">Page4</a>
+        </li>
+      </ul>
+
+    </div>
+  </nav>
+</header>

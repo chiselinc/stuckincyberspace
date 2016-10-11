@@ -1,0 +1,156 @@
+/*
+* Html Layout
+*/
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+// body::before {
+//   content: "";
+//   background: url("/images/backgrounds/bkg1.jpg");
+//   opacity: 0.5;
+//   position: absolute;
+//   top: 0;
+//   z-index: 0;
+//   width: 100%;
+//   height: 100%;
+//   background-size: cover;
+// }
+
+.full-height {
+  height: 100%;
+}
+
+/**
+ * Site header
+ */
+.site-header {
+    height: 6rem;
+    background-color: transparentize($hdc-second, 0.9);
+}
+
+.site-title {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+
+    &,
+    &:visited {
+        color: $grey-color-dark;
+    }
+}
+
+.site-nav {
+  padding: 0;
+  height:6rem;
+  .site-nav-brand {
+    padding: 0;
+    font-size:2rem;
+    img {
+      display: inline-block;
+      padding-right:1rem;
+      height: 6rem;
+    }
+  }
+  .site-nav-links {
+    padding: 2rem 0 0;
+  }
+}
+
+@media screen and (min-width:$on-palm)  {
+
+  .site-nav {
+    .site-nav-links {
+      height: 4rem;
+      color: $text-color;
+      line-height: $base-line-height;
+
+      .nav-item button,
+      .nav-item > a {
+        border: none;
+        border-radius:0;
+        padding: 0.5rem 0.5rem 2px;
+        margin: 0 0.3rem;
+        color: #555;
+        text-transform: capitalize;
+
+        &, &:active, &:hover, &:focus {
+          background-color: transparent;
+        }
+
+        &:hover, &:focus {
+          border-bottom: 3px solid #333;
+          color: #555;
+        }
+      }
+
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+    }
+  }
+}
+
+.site-small-jumbo {
+  min-height: 20%;
+  padding: 5% 0 5%;
+  margin: 0;
+}
+
+@media screen and (min-width:$on-laptop)  {
+  .site-big-jumbo {
+    height: calc(100% - 6rem);
+    padding:10% 0;
+    margin-bottom:0;
+    background-color: #fff;
+    h4 {
+      width: 80%;
+    }
+  }
+}
+
+/**
+ * Site footer
+ */
+.site-footer {
+  background-color: transparentize($hdc-second, 0.9);
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
+
+  .footer-heading {
+    margin-bottom: $spacing-unit / 2;
+    .footer-brand {
+      width: 5rem;
+    }
+    .contact-list {
+      padding: 1rem 0;
+    }
+    .footer-tiny {
+      font-size: 0.7rem;
+    }
+  }
+
+  .contact-list,
+  .social-media-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+}
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
+}
+
+.page-heading {
+    font-size: 20px;
+    margin-top:1rem;
+}
