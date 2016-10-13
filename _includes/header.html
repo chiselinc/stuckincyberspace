@@ -3,35 +3,34 @@
   .site-header a.navbar-brand, .site-nav .site-nav-links .nav-item > a {
     color:{{page.nav_txt_color}};
   }
+  header.site-header {
+    background-color: {{ page.nav_bkg_color }};
+  }
 </style>
 <header class="container-fluid site-header" style="background-color:{{page.nav_color}};">
   <nav class="navbar navbar-full navbar-light site-nav">
-    <div class="container">
+    <a class="navbar-brand site-nav-brand" href="{{ site.baseurl }}/">
+      <img src="/images/Profile.png" alt="{{ site.title }}">
+      <div class="site-nav-brand-title">{{ site.title }}</div>
+    </a>
 
-      <a class="navbar-brand site-nav-brand" href="{{ site.baseurl }}/">
-        <img src="/images/Profile.png" alt="{{ site.title }}">
-        {{ site.title }}
-      </a>
-
-      <ul class="nav navbar-nav hidden-md-down pull-md-right site-nav-links">
-        <!--  Sample Page 1 Link -->
-        <li class="nav-item">
-          <a href="/about" class="nav-link">about</a>
-        </li>
-        <!--  Sample Page 2 Link -->
-        <li class="nav-item">
-          <a href="/msGNU" class="nav-link">msGNU</a>
-        </li>
-        <!--  Sample Page 3 Link -->
-        <li class="nav-item">
-          <a href="/projects" class="nav-link">projects</a>
-        </li>
-        <!--  Sample Page 4 Link -->
-        <li class="nav-item">
-          <a href="/SiC" class="nav-link">stuck in cyberspace</a>
-        </li>
-      </ul>
-
-    </div>
+    <ul class="nav navbar-nav pull-md-right site-nav-links">
+      <!--  Sample Page 1 Link -->
+      <li class="nav-item">
+        <a href="/about" class="nav-link">about</a>
+      </li>
+      <!--  Sample Page 2 Link -->
+      <li class="nav-item">
+        <a href="/msGNU" class="nav-link">msGNU</a>
+      </li>
+      <!--  Sample Page 3 Link -->
+      <li class="nav-item">
+        <a href="/projects" class="nav-link">projects</a>
+      </li>
+      <!--  Sample Page 4 Link -->
+      <li class="nav-item">
+        <a href="/SiC" class="nav-link">stuck in cyberspace</a>
+      </li>
+    </ul>
   </nav>
 </header>

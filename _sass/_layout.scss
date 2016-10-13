@@ -26,7 +26,7 @@ html, body {
  * Site header
  */
 .site-header {
-    height: 6rem;
+    height: 10rem;
     background-color: transparentize($hdc-second, 0.9);
 }
 
@@ -45,29 +45,58 @@ html, body {
 }
 
 .site-nav {
+  display: flex;
+  flex-direction: column;
   padding: 0;
-  height:6rem;
+  height:7rem;
+  justify-content: space-between;
   .site-nav-brand {
     padding: 0;
-    font-size:2rem;
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: flex-start;
+    .site-nav-brand-title {
+      font-size:2rem;
+      line-height:2rem;
+      margin: auto 0;
+    }
     img {
-      display: inline-block;
       padding-right:1rem;
       height: 6rem;
     }
   }
   .site-nav-links {
-    padding: 2rem 0 0;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 -15px;
+    padding: 1rem;
+    background-color: #999;
+    .nav-item {
+      align-self: center;
+    }
+    .nav-item > a {
+      color: #333;
+      height: inherit;
+    }
+
   }
 }
 
-@media screen and (min-width:$on-palm)  {
+@media screen and (min-width:$on-laptop)  {
 
+  .site-header {
+    height: 6rem;
+  }
   .site-nav {
+    flex-direction: row;
+    align-items: center;
     .site-nav-links {
-      height: 4rem;
+      margin: 0;
+      height: 6rem;
       color: $text-color;
       line-height: $base-line-height;
+      background-color: transparent;
+      // align-self: flex-end;
 
       .nav-item button,
       .nav-item > a {
