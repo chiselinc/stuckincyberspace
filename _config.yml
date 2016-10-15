@@ -7,12 +7,12 @@
 
 # Site settings
 title: stuck in cyberspace
-email: stuckincyberspace@gmail.com
+email: innovative.disruption@gmail.com
 url: "http://stuckincyber.space"
-description: Power in the information age
+description: Welcome to the homebase of Chelsea Palmer (aka msGNU)
 
 # the subpath of your site, e.g. /blog
 baseurl: ""
-twitter_username: mmsgnu
+twitter_username: IMmsGNU
 github_username:  chiselinc
 markdown: kramdown
