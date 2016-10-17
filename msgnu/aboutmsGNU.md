@@ -1,27 +1,11 @@
+
 ---
 layout: page
 bkg_color: rgba(23,23,255,0.5)
 txt_color: rgb(255,255,255)
 ---
 
-![msGNU](/images/metadata.png)
-
 # Who's msGNU?
-
-The character msGNU was forged in the fire of frustration and conscientization which foments on the edges of the new InfoTech frontier.
-
-Originally a critical theorist, with her nose buried in volumes of Lacanian psychoanalysis and Foucauldian genealogy, msGNU’s heart grew faint and sad with a growing suspicion: this tumultuous world cannot be fixed with theory alone. She could give her whole life to an ivory tower echo chamber, in ignorance of the revolutionary tools being built in the tech world.
-
-The death of Aaron Swartz, specifically, shook her out of her academic stupor and mobilized her to learn, to act, to pursue a new path. Once she started digging into the philosophy of free software, well, forget about it-- her life was changed.
-
-MsGNU is not an expert coder, or a hardware hacker. She partakes not of emacs, nor of vim, nor of nano. Heck, she’s just getting in her stride in bash.
-
-So in short, don’t expect to see her pushing useful commits to The Projects That Will Change the World. What she hopes to do, instead, is to proselytize such projects and explain to larger populations Why, In Fact, They Might Just Change the World.
-
-In other words, think of her as a go-between, with her goofy music videos serving as a GUI for non-techies [particularly youngsters] to catch the New Tech Fever. Working toward a Schoolhouse Rock for disruptive tech concepts.
-
-If we can’t rally the masses for informed and purposeful adoption of innovative technology, the greatest strides we make will be drowned out by the increasingly siloed realm of the consumerist and surveillance-driven Web. Maybe more stakeholders will climb on board if we take ourselves much less seriously.
-
 
 ## Slapdash Aesthetic
 

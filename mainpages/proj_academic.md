@@ -5,6 +5,11 @@ txt_color: rgb(255,255,255)
 nav_color: rgb(255,255,255)
 nav_txt_color: red
 ---
+## My Active Projects
+
+## My Past Projects
+
+## Projects/Organizations I'm Interested In
 
 * Community Psychology principles/professors
 * Critical theory, esp. Foucault and Zizek
