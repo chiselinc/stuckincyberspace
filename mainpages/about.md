@@ -18,4 +18,27 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 * statement on american citizenship effect on willful data blindness
 * black lives matter, gender politix, but men's issues are important also
 
-## Thank Yous
+## Tools of the Trade
+* GNU/Linux, FLOSS
+* Jekyll Academic Writing setup
+* Github
+
+Sold my soul to
+* Google
+* Trello
+* Pocket
+* OneTab
+* Dropbox
+
+
+## Personal Heroes
+* Stallman
+*
+
+
+Pursuit of Learning:
+* **Stage One**: hearing a topic or idea in casual conversation
+* **Step Two**: casually looking up initial info from web search and/or Wikipedia
+* **Step Three**: evaluation of sources, engaged in deliberate dialogue with others
+* **Step Four**: orderly exploration of more formal sources and larger frameworks
+* **Step Five**: keeping an open ear and mind, aiming always to learn more

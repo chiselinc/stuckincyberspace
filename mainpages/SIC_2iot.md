@@ -1,7 +1,7 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.5)
-txt_color: rgb(255,255,255)
+bkg_color: rgba(23,23,255,0.4)
+txt_color: rgb(0,7,91)
 ---
 
 # "Technological Unconsciousness" [Track 2]
@@ -72,5 +72,13 @@ choose what to do<br>
 universal will to become shows vonnegut knew<br>
 our brains are neuroplastic and our limits porous<br>
 so collaborative growth is really working for us.
+
+## Download MP3
+
+[msGNU - technological unconsciousness](/mp3s/Iot.mp3)
+
+## Essay
+
+[Thesis Essay: Shapeshift into Cyborgs](/pdfs/chelsea_palmer_SIC_essay2.pdf)
 
 ## Source Footage

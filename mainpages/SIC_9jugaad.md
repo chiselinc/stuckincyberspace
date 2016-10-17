@@ -1,7 +1,7 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.5)
-txt_color: rgb(255,255,255)
+bkg_color: rgba(23,23,255,0.4)
+txt_color: rgb(0,7,91)
 ---
 
 # "Jugaad'a Be Kidding Me!" [Track 9]
