@@ -4,7 +4,7 @@ bkg_color: rgba(23,23,255,0.5)
 txt_color: rgb(255,255,255)
 ---
 
-![msGNU](/images/metadata.png)
+![msGNU](/images/metadata.JPG)
 
 # Who's msGNU?
 

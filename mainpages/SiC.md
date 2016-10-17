@@ -13,7 +13,7 @@ The album “Stuck in Cyberspace” kind of happened by accident. Writing her ep
 Each song is paired thematically with an essay of 2500-3500 words. These are written in easily digestible language targeting the average layman. They can be downloaded [here - create repository page](at SIC_essays.md). The ultimate project here is to excite those outside the tech industry about its looming possiiblities.
 
 ## Table of Contents
-[1. Stuck in Cyberspace (Intro)](/mainpages/SiCpages/1_intro.html)<br>
+[1. Stuck in Cyberspace (Intro)](/mainpages/SIC_1intro)<br>
 [2. Technological Unconsciousness](ref)<br>
 [3. A Dirty Shame](ref)<br>
 [4. What the Foucault?](ref)<br>

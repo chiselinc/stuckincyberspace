@@ -7,13 +7,12 @@
     <div class="row">
       <div class="col-md-6">
         <header class="footer-heading">
-          <img class="footer-brand" src="/images/logo/logo_v2.png" alt="{{ site.title }}">
+          <!-- <img class="footer-brand" src="/images/logo/logo_v2.png" alt="{{ site.title }}"> -->
+          <p>Unless explicitly stated otherwise, my words and content reflect my own views, rather than those of any organization with which I'm affiliated.</p>
           <ul class="contact-list">
-            <li>{{ site.title }}</li>
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <!-- <li>{{ site.title }}</li> -->
+            <li>Email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a>!</li>
           </ul>
-          <p class="footer-tiny"><ul>Unless explicitly stated otherwise, my words and content reflect my own views, rather than those of any organization with which I'm affiliated.
-                                  All content is Creative Commons Attribution-Sharealike 4.0 International.</p>
         </header>
       </div>
       <div class="col-md-6">
@@ -31,12 +30,19 @@
           </li>
           {% endif %}
 
-          {% if site.reddit_sub %}
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username url=site.linkedin_url %}
+          </li>
+          {% endif %}
+
+          <!-- {% if site.reddit_sub %}
           <li>
             {% include icon-reddit.html url=site.reddit_sub username='HDC Curated Multi-reddit' %}
           </li>
-          {% endif %}
+          {% endif %} -->
         </ul>
+        <p class="footer-tiny">All content is Creative Commons Attribution-Sharealike 4.0 International.</p>
       </div>
 
     </div>

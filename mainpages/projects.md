@@ -6,9 +6,11 @@ txt_color: rgb(255,255,255)
 
 # Current and Future Projects
 
+[Academic](#academic)
+
 ## Description
 
-## Academic
+<h2 id='academic'> Academic </h2>
 
 ## Action
 
