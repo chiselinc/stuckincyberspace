@@ -96,3 +96,7 @@ but i know if i left it all without a note<br>
 the regret of not fighting might close up my throat.
 
 ## Source Footage
+
+*Hackers* - Wizards of the Electronic Age: https://youtu.be/zOP1LNr70aU
+Decentralized Web Summit Day 1: https://youtu.be/Yth7O6yeZRE
+Decentralized Web Summit Day 2: https://youtu.be/PfWgin3JlAU

@@ -90,3 +90,6 @@ such a tasty meal they're serving-<br>
 but the tradeoff is unnerving.</i>
 
 ## Source Footage
+
+https://www.reddit.com/r/whitepeoplegifs/top/?sort=top&t=all
+https://www.reddit.com/r/wheredidthesodago/top/?sort=top&t=all

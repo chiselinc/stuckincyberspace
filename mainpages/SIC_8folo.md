@@ -53,3 +53,25 @@ little kid climbing alone to the top of a tree<br>
 empty pockets, and no need for anyone else to see.
 
 ## Source Footage
+
+This is Why Social Media Needs to Change https://youtu.be/LgQQ0rosu0I
+
+Close up Man's hands using Mobile Phone, texting: https://youtu.be/b9p-RcIBBII
+
+ENHANCED CELL PHONE OF THE FUTURE: https://youtu.be/niTJDPKhknE
+
+picturephone from ask an engineer: https://youtu.be/WzdCKBZP4Jo
+
+Scrapping a cell phone & cordless phone for gold: https://youtu.be/nEHjST67Si4
+
+Cell phone- a tracking device?: https://youtu.be/VUx4Kowllm0
+
+USA: the cellphone surveillance nation: https://youtu.be/c1egAfCzdKM
+
+Ursula Martius Franklin - Inductee 2012 - Canadian Science and Engineering Hall of Fame: https://youtu.be/nKH1GX-86Aw
+
+"Cell Phones in Pittsburgh" - KDKA-TV - 1995 - Day 1: https://youtu.be/x_8lmeen79I
+
+Paul Simon - You Can Call Me Al : https://youtu.be/uq-gYOrU8bA
+
+danah boyd on Hyperpublic: https://youtu.be/mPfzO7ldgrc

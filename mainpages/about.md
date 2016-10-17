@@ -13,10 +13,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-## Ethical Standpoint and Personal Identity
+<!-- ## Ethical Standpoint and Personal Identity
 
 * statement on american citizenship effect on willful data blindness
-* black lives matter, gender politix, but men's issues are important also
+* black lives matter, gender politix, but men's issues are important also -->
 
 ## Tools of the Trade
 * GNU/Linux, FLOSS
@@ -36,9 +36,9 @@ Sold my soul to
 *
 
 
-Pursuit of Learning:
+<!-- Pursuit of Learning:
 * **Stage One**: hearing a topic or idea in casual conversation
 * **Step Two**: casually looking up initial info from web search and/or Wikipedia
 * **Step Three**: evaluation of sources, engaged in deliberate dialogue with others
 * **Step Four**: orderly exploration of more formal sources and larger frameworks
-* **Step Five**: keeping an open ear and mind, aiming always to learn more
+* **Step Five**: keeping an open ear and mind, aiming always to learn more -->

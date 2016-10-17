@@ -68,3 +68,28 @@ hope a new day's coming<br>
 even though it's surely coming slow
 
 ## Source Footage
+
+AT&T Bell Labs 1 ESS: https://youtu.be/tziav_yq5_g
+
+Change the Record by Paul Cocksedge: https://youtu.be/leckCWLYP7M
+
+Lawrence Lessig on Creative Commons: https://youtu.be/nMdsLGmmVkU
+
+Rubik's Factory: https://youtu.be/ucBpSNa_nMg
+
+She's got Aptitude Led Zeppelin Vinyl: https://youtu.be/SV-ocpkH-QY
+
+Vinyl Record Project 1st Album Art Film: https://youtu.be/-IbpgnLxb7U
+Will You Ever Love a Robot? https://youtu.be/wUViHQinNWI
+
+Robber Barons vs. Technophilanthropists https://youtu.be/fpTYk52jAhc
+
+Education has a Mass Production Mentality https://youtu.be/QNfwNSHlaIg
+
+The Industrial Revolution 1942 Public Domain https://youtu.be/QeWUFvn6L04
+
+History of the Labour Party in Norway https://youtu.be/H1JrmF15RPY
+
+Scepter of Union Violence, Big Labor Persuasion https://youtu.be/QS_RYLCDnSU
+
+Welcome to the Anthropocene https://youtu.be/fvgG-pxlobk

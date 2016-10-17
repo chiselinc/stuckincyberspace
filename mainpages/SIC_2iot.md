@@ -82,3 +82,53 @@ so collaborative growth is really working for us.
 [Thesis Essay: Shapeshift into Cyborgs](/pdfs/chelsea_palmer_SIC_essay2.pdf)
 
 ## Source Footage
+
+
+Artificial Brain Simulation - Thalamocortical System: https://youtu.be/u28ijlP6L6M
+
+Bob Harris gives the fastest Millionaire Phone-A-Friend: https://youtu.be/7oKuLUjKXp0
+
+Dessine-moi le bitcoin est-il: https://youtu.be/rOYJfRQNibQ
+
+Google Earth Basics: https://youtu.be/aEspdspPR7c
+
+Heartbeat flatline: https://youtu.be/tpi5RoNmvTU
+
+How a Smartphone Knows Up from Down: https://youtu.be/KZVgKu6v808
+(Engineer guy is AWESOME!)
+
+KW x UT: https://youtu.be/hxDhucdYW28
+
+Kurt Vonnegut Interview - Part 1 [WFYIOnline]: https://youtu.be/ojMAgsfgPjA
+
+Neuroplasticity: https://youtu.be/5hI6OhtBPmc
+
+[Noia] TOTAL - Dogecoin Simulator: https://youtu.be/lQjN4PCf2Yg
+
+Picturing the Brain: https://youtu.be/qkYEfWazIfc
+
+Play Synth Notes in the Linux Shell BASH: https://youtu.be/C1AD17oOVnQ
+
+Robot Reality: https://youtu.be/9TEjRhw6KGQ
+
+Super Mario Bros. and Tennis Toploading: https://youtu.be/wyiBuX9y16k
+
+Teaming Up_ Imaging and Genetics: https://youtu.be/XsapnUYbGHM
+
+Terminator salvation - skynet trick: https://youtu.be/YWPIwTNCnfA
+
+The Industrial Internet of Things: https://youtu.be/8NGzrtK7eV0
+
+The Internet of THings Architecture, IoT-A: https://youtu.be/nEVatZruJ7k
+
+Trent McConaghy - Driving Moore's Law with Python-Powered Machine Learning: https://youtu.be/Jm-eBD9xR3w
+(I found this randomly as it was the best source for a few charts on Moore's Law-- imagine my surprise when I saw that it was a talk from the awesome Trent McConaghy of Bigchain DB, who are doing great things in the decentralized tech world!)
+
+Twitter nasil kullanilir: https://youtu.be/0F5gzJFdWas
+
+Universal health_ From private coverage to public care: https://youtu.be/YzNS5jd-LTY
+
+Unix & holistic technologies - SquatConf Berlin: https://youtu.be/TMfTKH7fIkU
+(Conference Speaker: noffle)
+
+Zoom Into a Microchip: https://youtu.be/Fxv3JoS1uY8

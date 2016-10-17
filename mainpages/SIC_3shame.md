@@ -66,3 +66,42 @@ PR planned this bet, has justine landed yet,<br>
 no such thing as bad publicity, take what we can get.
 
 ## Source Footage
+
+Steve Harvey:
+https://youtu.be/MJCSbhPnlYk
+
+1925 wizard of oz:
+https://youtu.be/oi1hno9RPaI
+
+CNN interview with violentacrez:
+https://youtu.be/ks8xuYRPnWM
+
+footage taken from william lustig's MANIAC COP 2?
+https://youtu.be/EGiLh9BfBCE
+
+scarlet letter footage:
+https://youtu.be/AMqozifK97M
+
+french science vid:
+https://youtu.be/4JmKjVA58Vo
+
+brave new world original miniseries:
+https://youtu.be/kmlMgeQGOWs
+
+fahrenheit truffaut footage:
+https://youtu.be/976u_C5XnCc
+
+slick rick footage:
+https://youtu.be/HjNTu8jdukA
+
+toxic avenger footage:
+https://youtu.be/2ZlAE6YMOic
+
+lemon stealing whores:
+https://youtu.be/U5mI407Uks4
+
+from kung fury:
+https://youtu.be/pzDgaGTARqE
+
+CNN footage:
+https://youtu.be/Xi1pMS0JwoI

@@ -67,3 +67,43 @@ brace yourself, we're gettin stuck in cyberspace tonight.<br>
 **INSERT BREWSTER KAHLE**
 
 ## Source Footage
+
+[Apple Mac OS X 10.7 through 10.8+](https://youtu.be/ztpCNmDYDZ4)
+
+Bill Nye the Science Guy shuts down Donald J. Trump and other politicians who don't believe -- **VIDEO REMOVED**
+
+[Brewster Kahle_ Locking the Web Open_ Call for a Distributed Web](https://youtu.be/ubxWu0kne84)
+[originally from ccc-tv](https://media.ccc.de/v/camp2015-6938-locking_the_web_open_call_for_a_distributed_web)
+
+[Danger Rip Current_Instructional](https://youtu.be/Ie3v8G5Z5Qc)
+
+[Evolution of Startup Sounds from Windows 3.1](https://youtu.be/_r_kgxVmLJ4)
+[Mashable, standard license, fair use]
+
+[Gary Johnson crowd surfing](https://youtu.be/4Iz69hnZJ60)
+
+[Man sitting under table with a laptop](https://youtu.be/fsu-Xrog8EY)
+
+[National Grand Theatre, Beijing - lighting by iGuzzini](https://youtu.be/KUeWqs8ziNw)
+
+[Pacman Frog catch some touch screen bugs](https://youtu.be/LbNl3J8HXw4)
+
+[Random 4chan YLYL Webm FUN #4](https://youtu.be/YP3uMpy_nfY)
+
+[School House Rock Opening Intro](https://youtu.be/TY83S9RSMmY)
+[Standard Youtube license, fair use]
+
+[The Magic School Bus Intro](https://youtu.be/v53mhRXXT2g)
+[Standard Youtube license, fair use]
+
+[Two kids laughing playing games on smartphone](https://youtu.be/0Co3ExMU4DA)
+
+[Ubuntu Crazy Error](https://youtu.be/-N9xqN8Cf5Q)
+[Standard Youtube license, fair use]
+
+[Ugly messy woman reacts on a text message](https://youtu.be/0K-8i0xSimA)
+
+[Understand the Blockchain in Two Minutes](https://youtu.be/r43LhSUUGTQ)
+[Standard Youtube license, fair use FROM](http://www.iftf.org/blockchainfutureslab)
+
+[World's Most Comfortable Man from "Million Dollar Extreme"](https://youtu.be/NWhhv03ZKzo0)

@@ -68,3 +68,21 @@ scarface or macguiver?
 king of an evil empire or a creative survivor?<br>
 
 ## Source Footage
+
+MacGyver - Might Work: https://youtu.be/L9L0gVzOLds
+
+MacGyver Tricks 1: https://youtu.be/XfCa3wn37mU
+
+Open Source Maasai Warrior: https://youtu.be/WOmmLMljBzk
+
+SIC ILL - The Rap Emcee Dictionary: https://youtu.be/Ae1yX3sV3TM
+
+Samasource Found Me_ Martha's Story: https://youtu.be/s9nVNrV5jS8
+
+Scarface - Helicopter Hanging Scene: https://youtu.be/CqphlLgOlEM
+
+Scarface - I'm Tony Montana: https://youtu.be/ZiFX0rYoCrU
+
+Taking the Digital Revolution to the Village: https://youtu.be/0e2nMPpE9fA
+
+mr. wizard.wmv: https://youtu.be/ZuvQRdDJtLA

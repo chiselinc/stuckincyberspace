@@ -77,3 +77,8 @@ gettin dizzy as we chase what we're taught to call treasure<br>
 and we consent to resented commands even within our leisure<br>
 
 ## Source Footage
+
+Michel Foucault Beyond Good and Evil: https://youtu.be/xQHm-mbsCwk
+Foucault--The Lost Interview: https://youtu.be/qzoOhhh4aJg
+Auto-Panoptismo: https://youtu.be/t_1qG6S596M
+Free Empty Old Silent Movie Title Card: https://youtu.be/i04DQ3FLG3w
