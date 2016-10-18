@@ -6,7 +6,7 @@ nav_color: rgba(71,252, 68,0.5)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Sharecon" [Track 6]
+# msGNU - "Sharecon" [Track 6]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -21,6 +21,8 @@ nav_txt_color: rgb(1, 47, 107)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MkY09ebJXEQ" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
@@ -84,30 +86,30 @@ even though it's surely coming slow<br>
 
 [msGNU - sharecon](/mp3s/msGNU-Sharecon.mp3)
 
+<h2 id='foot'> Source Footage </h2>
 
-## Source Footage
+[AT&T Bell Labs 1 ESS](https://youtu.be/tziav_yq5_g)
 
-AT&T Bell Labs 1 ESS: https://youtu.be/tziav_yq5_g
+[Change the Record by Paul Cocksedge](https://youtu.be/leckCWLYP7M)
 
-Change the Record by Paul Cocksedge: https://youtu.be/leckCWLYP7M
+[Lawrence Lessig on Creative Commons](https://youtu.be/nMdsLGmmVkU)
 
-Lawrence Lessig on Creative Commons: https://youtu.be/nMdsLGmmVkU
+[Rubik's Factory](https://youtu.be/ucBpSNa_nMg)
 
-Rubik's Factory: https://youtu.be/ucBpSNa_nMg
+[She's got Aptitude Led Zeppelin Vinyl](https://youtu.be/SV-ocpkH-QY)
 
-She's got Aptitude Led Zeppelin Vinyl: https://youtu.be/SV-ocpkH-QY
+[Vinyl Record Project 1st Album Art Film](https://youtu.be/-IbpgnLxb7U)
 
-Vinyl Record Project 1st Album Art Film: https://youtu.be/-IbpgnLxb7U
-Will You Ever Love a Robot? https://youtu.be/wUViHQinNWI
+[Will You Ever Love a Robot?](https://youtu.be/wUViHQinNWI)
 
-Robber Barons vs. Technophilanthropists https://youtu.be/fpTYk52jAhc
+[Robber Barons vs. Technophilanthropists](https://youtu.be/fpTYk52jAhc)
 
-Education has a Mass Production Mentality https://youtu.be/QNfwNSHlaIg
+[Education has a Mass Production Mentality](https://youtu.be/QNfwNSHlaIg)
 
-The Industrial Revolution 1942 Public Domain https://youtu.be/QeWUFvn6L04
+[The Industrial Revolution 1942 Public Domain](https://youtu.be/QeWUFvn6L04)
 
-History of the Labour Party in Norway https://youtu.be/H1JrmF15RPY
+[History of the Labour Party in Norway](https://youtu.be/H1JrmF15RPY)
 
-Scepter of Union Violence, Big Labor Persuasion https://youtu.be/QS_RYLCDnSU
+[Scepter of Union Violence, Big Labor Persuasion](https://youtu.be/QS_RYLCDnSU)
 
-Welcome to the Anthropocene https://youtu.be/fvgG-pxlobk
+[Welcome to the Anthropocene](https://youtu.be/fvgG-pxlobk)

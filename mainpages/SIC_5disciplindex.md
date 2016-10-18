@@ -6,7 +6,7 @@ nav_color: rgba(216, 54, 154, 0.5)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Disciplindex" [Track 5]
+# msGNU - "Disciplindex" [Track 5]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -21,6 +21,8 @@ nav_txt_color: rgb(1, 47, 107)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bq9W2CEGxGU" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
@@ -111,9 +113,10 @@ the regret of not fighting might close up my throat.
 
 [msGNU - disciplindex](/mp3s/msGNU-Disciplindex.mp3)
 
+<h2 id='foot'> Source Footage </h2>
 
-## Source Footage
+[*Hackers* - Wizards of the Electronic Age](https://youtu.be/zOP1LNr70aU)
 
-*Hackers* - Wizards of the Electronic Age: https://youtu.be/zOP1LNr70aU
-Decentralized Web Summit Day 1: https://youtu.be/Yth7O6yeZRE
-Decentralized Web Summit Day 2: https://youtu.be/PfWgin3JlAU
+[Decentralized Web Summit Day 1](https://youtu.be/Yth7O6yeZRE)
+
+[Decentralized Web Summit Day 2](https://youtu.be/PfWgin3JlAU)

@@ -35,6 +35,9 @@ img {
     margin: 0 auto;
     width: 600px; }
 
+figcaption {
+  text-align: center; }
+
 /**
  * Figures
  */
@@ -229,7 +232,6 @@ html, body {
  */
 .site-footer {
   background-color: rgba(1, 162, 166, 0.1);
-  border-top: 1px solid #e8e8e8;
   padding: 3rem 0; }
   .site-footer .footer-heading {
     margin-bottom: 1.5rem; }

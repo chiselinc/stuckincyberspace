@@ -6,7 +6,7 @@ nav_color: rgba(216, 54, 154, 0.5)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Fear of Logging Off" [Track 8]
+# msGNU - "Fear of Logging Off" [Track 8]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -21,6 +21,8 @@ nav_txt_color: rgb(1, 47, 107)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/oXehxFgoAEI" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
@@ -69,27 +71,26 @@ empty pockets, and no need for anyone else to see.
 
 [msGNU - fear off logging off](/mp3s/msGNU-FOLO.mp3)
 
+<h2 id='foot'> Source Footage </h2>
 
-## Source Footage
+[This is Why Social Media Needs to Change](https://youtu.be/LgQQ0rosu0I)
 
-This is Why Social Media Needs to Change https://youtu.be/LgQQ0rosu0I
+[Close up Man's hands using Mobile Phone, texting](https://youtu.be/b9p-RcIBBII)
 
-Close up Man's hands using Mobile Phone, texting: https://youtu.be/b9p-RcIBBII
+[ENHANCED CELL PHONE OF THE FUTURE](https://youtu.be/niTJDPKhknE)
 
-ENHANCED CELL PHONE OF THE FUTURE: https://youtu.be/niTJDPKhknE
+[picturephone from ask an engineer](https://youtu.be/WzdCKBZP4Jo)
 
-picturephone from ask an engineer: https://youtu.be/WzdCKBZP4Jo
+[Scrapping a cell phone & cordless phone for gold](https://youtu.be/nEHjST67Si4)
 
-Scrapping a cell phone & cordless phone for gold: https://youtu.be/nEHjST67Si4
+[Cell phone- a tracking device?](https://youtu.be/VUx4Kowllm0)
 
-Cell phone- a tracking device?: https://youtu.be/VUx4Kowllm0
+[USA: the cellphone surveillance nation](https://youtu.be/c1egAfCzdKM)
 
-USA: the cellphone surveillance nation: https://youtu.be/c1egAfCzdKM
+[Ursula Martius Franklin - Inductee 2012 - Canadian Science and Engineering Hall of Fame](https://youtu.be/nKH1GX-86Aw)
 
-Ursula Martius Franklin - Inductee 2012 - Canadian Science and Engineering Hall of Fame: https://youtu.be/nKH1GX-86Aw
+["Cell Phones in Pittsburgh" - KDKA-TV - 1995 - Day 1](https://youtu.be/x_8lmeen79I)
 
-"Cell Phones in Pittsburgh" - KDKA-TV - 1995 - Day 1: https://youtu.be/x_8lmeen79I
+[Paul Simon - You Can Call Me Al ](https://youtu.be/uq-gYOrU8bA)
 
-Paul Simon - You Can Call Me Al : https://youtu.be/uq-gYOrU8bA
-
-danah boyd on Hyperpublic: https://youtu.be/mPfzO7ldgrc
+[danah boyd on Hyperpublic](https://youtu.be/mPfzO7ldgrc)

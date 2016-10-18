@@ -6,7 +6,7 @@ nav_color: rgba(23,23,255,0.4)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Terms & Conditions" [Track 7]
+# msGNU - "Terms & Conditions" [Track 7]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -21,6 +21,8 @@ nav_txt_color: rgb(1, 47, 107)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9gA28axxt6E" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
@@ -106,8 +108,8 @@ but the tradeoff is unnerving.</i>
 
 [msGNU - terms & conditions](/mp3s/msGNU-Google.mp3)
 
+<h2 id='foot'> Source Footage </h2>
 
-## Source Footage
+[Reddit's White People GIFs](https://www.reddit.com/r/whitepeoplegifs/top/?sort=top&t=all)
 
-https://www.reddit.com/r/whitepeoplegifs/top/?sort=top&t=all
-https://www.reddit.com/r/wheredidthesodago/top/?sort=top&t=all
+[Reddit's "Where Did the Soda Go?"](https://www.reddit.com/r/wheredidthesodago/top/?sort=top&t=all)

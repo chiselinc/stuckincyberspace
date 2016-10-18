@@ -10,7 +10,7 @@ nav_txt_color: rgb(1, 47, 107)
 
 ### The character "msGNU" was forged in the fire of frustration and conscientization which foments on the edges of the new InfoTech frontier.
 
-Originally a critical theorist, with her nose buried in volumes of Lacanian psychoanalysis and Foucauldian genealogy, msGNU’s heart grew faint and sad with a growing suspicion: this crazy world cannot be fixed with theory alone. Cutting edge technology is our best bet to fix the existing problems faced by humanity.
+Originally a critical theorist, with her nose buried in volumes of Lacanian psychoanalysis and Foucauldian genealogy, msGNU’s heart grew faint and sad with a growing suspicion: this crazy world cannot be fixed with theory alone. Cutting edge technology is our best bet to address the existing problems faced by humanity.
 
 ![msGNU](/images/guitar.JPG)
 
@@ -20,9 +20,7 @@ I partake not of emacs, nor of vim, nor of nano. Heck, I'm just getting in my st
 
 I aim for my goofy music videos to serve as [an analogue to a GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) for non-techies-- particularly youngsters-- to catch the New Tech Fever. Welcome to the Schoolhouse Rock of disruptive technology, y'all!
 
-## Slapdash Aesthetic
-
-### There's No Accounting for Taste!
+### Slapdash Aesthetic: There's No Accounting for Taste!
 
 I've never produced something polished or smooth. My tastes trend toward MS Paint and Crayola; my fashion sense hasn't changed since age 6.
 

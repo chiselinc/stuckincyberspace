@@ -1,12 +1,12 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
+bkg_color: rgba(176,43,181,0.8)
 txt_color: rgb(1, 47, 107)
 nav_color: rgb(244, 124, 44)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# Homesite of Chelsea Palmer [aka msGNU]
+# **Homesite of Chelsea Palmer [aka msGNU]**
 This is where the party's gonna start. msGNU up in this business for real.
 
 <div class="embed-responsive embed-responsive-16by9">

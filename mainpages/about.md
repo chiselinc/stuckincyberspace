@@ -10,8 +10,11 @@ nav_txt_color: rgb(1, 47, 107)
 
 {:.shrinkpic}
 ![Screenshot from "Peep Show"](/images/normal_human_peepshow.jpg)
+  <figcaption>Screenshot from the comedy "Peep Show"</figcaption>
 
-My three core passions are education, activism, and forging alliances.
+<br>
+
+### My three core passions are education, activism, and forging alliances.
 
 If you're looking for information on my professional accomplishments and interests, the most useful place would probably be my [LinkedIn page](https://ca.linkedin.com/in/chelsea-palmer-79280ab5).
 
@@ -29,9 +32,9 @@ If we can’t rally the masses for informed and purposeful adoption of innovativ
 
 ## Copyright Philosophy
 
-If we have to use a "fenced in" centralized platform like Youtube we should at least exercise as much freedom as possible within it. The more people who consciously choose CC/free licenses, the greater the connections, sampling, collaborations, etc upon this platform will be. Please refuse the automatic "Youtube Standard License" when you upload your work; you can even set a Creative Commons license as the default for your account, within the Creator Studio settings. That way, you can set it and forget it.
+I aim to use primarily Creative Commons and Public Domain licensed footage in my work; however, there is unfortunately a dearth of that on current day Youtube (something I hope to help change!). In some cases, I have used content that is listed under the Standard YouTube License, in the understanding that short-form sampling for educational rap would be considered Fair Use. Please contact me at IM.ms.GNU@gmail.com if you disagree and would like me to remove your footage from this video.
 
-### Personal Thank Yous
+## Personal Thank Yous
 
 I owe everything in my life to my family. A loving mother who sweetly, selflessly takes care of the people around her. A badass father who will stand up, and work for, what's right, no matter what. A super cool older brother who introduced me to amazing music and film long before I would have found it on my own. An awesome and funny extended family.
 

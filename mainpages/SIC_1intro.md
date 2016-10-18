@@ -6,7 +6,7 @@ nav_color: rgba(23,23,255,0.4)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Stuck in Cyberspace" [Track 1]
+# msGNU - "Stuck in Cyberspace" [Track 1]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>

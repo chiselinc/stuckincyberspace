@@ -8,6 +8,11 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **Current and Future Projects**
 
+{:.shrinkpic}
+![Unknown source; earliest instance on imageboards 2008](/images/linux_better.jpg)
+  <figcaption>"I got some opinions..."</figcaption>
+<br>
+
 This is a collection of links to some of my past and present projects, as well as organizations I particularly admire, in the following rough categories.
 
 [Academic](#academic)<br>
@@ -34,6 +39,10 @@ This is a collection of links to some of my past and present projects, as well a
 <h2 id='copyright'> Copyright </h2>
 
 My personal statement on Copyright
+
+
+If we have to use a "fenced in" centralized platform like Youtube we should at least exercise as much freedom as possible within it. The more people who consciously choose CC/free licenses, the greater the connections, sampling, collaborations, etc upon this platform will be. Please refuse the automatic "Youtube Standard License" when you upload your work; you can even set a Creative Commons license as the default for your account, within the Creator Studio settings. That way, you can set it and forget it.
+
 
 * GNU GPL
 * Creative Commons

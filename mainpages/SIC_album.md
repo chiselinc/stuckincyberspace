@@ -8,6 +8,9 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **"Stuck in Cyberspace" - The 2016 Rap Album**
 
+
+![What the Foucault?!](/images/foucaultporch.JPG)
+
 ### **Song Pages (Containing Videos, Lyrics, Downloads, and Credits)**
 
 [1. Stuck in Cyberspace (Intro)](/mainpages/SIC_1intro)<br>
@@ -42,10 +45,10 @@ Jayson Munro set up my first install of Ubuntu about 5 years ago, on a whim at a
 
 Acre Stowe is an amazing producer, with an impeccable ear for levels and detail. Thanks for the studio access, and the tireless cycle of tweaks and feedback. All the backing beats were originally pulled about 2 years ago from Creative Commons collections on Soundcloud [except for the beat for Sharecon, which was created by good friend Sean Goggins!]. The artists whose beats I used are generous and kind, and you can hear more of their music here:
 
-* [Rey Topol](https://soundcloud.com/rey-topol) (The majority of my beats are from Rey, I find his compositions upbeat and heartwarming!)
-* [ChiLL BooGie](https://www.myflashstore.net/profile/ChiLLBooGie) [track 5: disciplindex](mainpages/SIC_5disciplindex)
-* [Bizzle](https://soundcloud.com/beatzbybizzle) [track 7: terms & conditions](mainpages/SIC_7google)
-* Sean Goggins [track 6: sharecon](mainpages/SIC_6sharecon)
+* [Rey Topol](https://soundcloud.com/rey-topol) -- (The majority of my beats are from Rey, I find his compositions upbeat and heartwarming!)
+* [ChiLL BooGie](https://www.myflashstore.net/profile/ChiLLBooGie) -- [track 5: disciplindex](/mainpages/SIC_5disciplindex)
+* [Bizzle](https://soundcloud.com/beatzbybizzle) -- [track 7: terms & conditions](/mainpages/SIC_7google)
+* Sean Goggins -- [track 6: sharecon](/mainpages/SIC_6sharecon)
 
 
 <!-- Beats

@@ -6,7 +6,7 @@ nav_color: rgba(23,23,255,0.4)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "What the Foucault" [Track 4]
+# msGNU - "What the Foucault" [Track 4]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -27,6 +27,8 @@ I will take care of it to the best of my ability, even long after it stops fitti
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s5IyetCQozo" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
@@ -99,9 +101,12 @@ and we consent to resented commands even within our leisure<br>
 [msGNU - what the foucault?](/mp3s/msGNU-Foucault.mp3)
 
 
-## Source Footage
+<h2 id='foot'> Source Footage </h2>
 
-Michel Foucault Beyond Good and Evil: https://youtu.be/xQHm-mbsCwk
-Foucault--The Lost Interview: https://youtu.be/qzoOhhh4aJg
-Auto-Panoptismo: https://youtu.be/t_1qG6S596M
-Free Empty Old Silent Movie Title Card: https://youtu.be/i04DQ3FLG3w
+[Michel Foucault Beyond Good and Evil](https://youtu.be/xQHm-mbsCwk)
+
+[Foucault--The Lost Interview](https://youtu.be/qzoOhhh4aJg)
+
+[Auto-Panoptismo](https://youtu.be/t_1qG6S596M)
+
+[Free Empty Old Silent Movie Title Card](https://youtu.be/i04DQ3FLG3w)

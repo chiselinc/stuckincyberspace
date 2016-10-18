@@ -8,6 +8,9 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **"Stuck in Cyberspace" - The Thesis (2015)**
 
+{:.shrinkpic}
+![Hands off my metadata, plz.](/images/metadata.JPG)
+
 #### **Abstract**
 
 Due to developing advances in international technology, modes of engagement
@@ -34,7 +37,7 @@ Exploration of the creeping effects of these sneaky devices (increasingly tiny a
 
 ## [Essay 2. Shapeshift into Cyborgs: Embedded Technology and Automated Environments](/pdfs/chelsea_palmer_2015_SIC_essay2.pdf)
 
-The concept of the 'technological unconscious' [[David Beer](davidbeer.net)] refers to the fact that as we universally adapt to new technology, it becomes nearly invisible in our daily lives. Does the development of new tech lean toward a net positive, or toward a dangerous creep of consumer data collection?
+The concept of the 'technological unconscious' [[David Beer](http://www.davidbeer.net)] refers to the fact that as we universally adapt to new technology, it becomes nearly invisible in our daily lives. Does the development of new tech lean toward a net positive, or toward a dangerous creep of consumer data collection?
 
 * the swift advance of the Internet of Things, machine learning, and bioinformatics
 * wasting "timeless time" scrolling through endless websites

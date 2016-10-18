@@ -6,7 +6,7 @@ nav_color: rgba(71,252, 68,0.5)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Jugaad'a Be Kidding Me!" [Track 9]
+# msGNU - "Jugaad'a Be Kidding Me!" [Track 9]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -21,6 +21,8 @@ nav_txt_color: rgb(1, 47, 107)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DmHZRpBI1os" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
@@ -74,32 +76,32 @@ lil wizard just tryna grow into my beard.<br>
 so tl;dr on my views- if you teach a man to fish<br>
 he might just teach you how to spice it up and reinvent the dish.<br>
 <br>
-()<b>x2</b>) who's more impressive?<br>
+(<b>x2</b>) who's more impressive?<br>
 scarface or macguiver?
 king of an evil empire or a creative survivor?<br>
 
 
 <h2 id='mp3'> Download MP3 </h2>
 
-[msGNU - *jugaad'a* be kidding me!](/mp3s/msGNU-IOT.mp3)
+[msGNU - *jugaad'a* be kidding me!](/mp3s/msGNU-Jugaad.mp3)
 
 
-## Source Footage
+<h2 id='foot'> Source Footage </h2>
 
-MacGyver - Might Work: https://youtu.be/L9L0gVzOLds
+[MacGyver - Might Work](https://youtu.be/L9L0gVzOLds)
 
-MacGyver Tricks 1: https://youtu.be/XfCa3wn37mU
+[MacGyver Tricks 1](https://youtu.be/XfCa3wn37mU)
 
-Open Source Maasai Warrior: https://youtu.be/WOmmLMljBzk
+[Open Source Maasai Warrior](https://youtu.be/WOmmLMljBzk)
 
-SIC ILL - The Rap Emcee Dictionary: https://youtu.be/Ae1yX3sV3TM
+[SIC ILL - The Rap Emcee Dictionary](https://youtu.be/Ae1yX3sV3TM)
 
-Samasource Found Me_ Martha's Story: https://youtu.be/s9nVNrV5jS8
+[Samasource Found Me_ Martha's Story](https://youtu.be/s9nVNrV5jS8)
 
-Scarface - Helicopter Hanging Scene: https://youtu.be/CqphlLgOlEM
+[Scarface - Helicopter Hanging Scene](https://youtu.be/CqphlLgOlEM)
 
-Scarface - I'm Tony Montana: https://youtu.be/ZiFX0rYoCrU
+[Scarface - I'm Tony Montana](https://youtu.be/ZiFX0rYoCrU)
 
-Taking the Digital Revolution to the Village: https://youtu.be/0e2nMPpE9fA
+[Taking the Digital Revolution to the Village](https://youtu.be/0e2nMPpE9fA)
 
-mr. wizard.wmv: https://youtu.be/ZuvQRdDJtLA
+[mr. wizard.wmv](https://youtu.be/ZuvQRdDJtLA)

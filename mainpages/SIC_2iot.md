@@ -6,7 +6,7 @@ nav_color: rgba(216, 54, 154, 0.5)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Technological Unconsciousness" [Track 2]
+# msGNU - "Technological Unconsciousness" [Track 2]
 
 [Video](#video)<br>
 [Accompanying Essay (PDF)](#pdf)<br>
@@ -19,6 +19,8 @@ nav_txt_color: rgb(1, 47, 107)
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wIhyuJMQj-M" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
 
 <h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
