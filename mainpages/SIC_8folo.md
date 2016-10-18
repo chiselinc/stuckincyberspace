@@ -8,19 +8,25 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Fear of Logging Off" [Track 8]
 
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
 <!-- ## Background & Credits -->
 
-## Video
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/oXehxFgoAEI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: I Can't Find My Cell Phone, I Can Hardly Breathe: Omnipresent Accessibility and the Fear of Missing Out](/pdfs/chelsea_palmer_2015_SIC_essay1.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 wake up in the morning, where's my cellphone, cellphone<br>
 lifeline heartbeat, i listen for the ringtone<br>
@@ -59,7 +65,7 @@ little kid climbing alone to the top of a tree<br>
 empty pockets, and no need for anyone else to see.
 
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - fear off logging off](/mp3s/msGNU-FOLO.mp3)
 

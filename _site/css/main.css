@@ -19,12 +19,21 @@ ul, ol, dl, figure,
 p {
   font-size: 1.2rem; }
 
+h1 {
+  text-align: center; }
+
 /**
  * Images
  */
 img {
   max-width: 100%;
   vertical-align: middle; }
+
+.shrinkpic {
+  text-align: center; }
+  .shrinkpic img {
+    margin: 0 auto;
+    width: 600px; }
 
 /**
  * Figures
@@ -39,7 +48,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 3rem; }
+  margin-left: 3rem;
+  font-size: 1.2rem; }
 
 li > ul,
 li > ol {
@@ -55,10 +65,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #c60703;
+  color: #3535e0;
   text-decoration: none; }
   a:visited {
-    color: #7b0402; }
+    color: #4b4be3; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -187,8 +197,7 @@ html, body {
         border-radius: 0;
         padding: 0.5rem 0.5rem 2px;
         margin: 0 0.3rem;
-        color: #555;
-        text-transform: capitalize; }
+        color: #555; }
         .site-nav .site-nav-links .nav-item button, .site-nav .site-nav-links .nav-item button:active, .site-nav .site-nav-links .nav-item button:hover, .site-nav .site-nav-links .nav-item button:focus,
         .site-nav .site-nav-links .nav-item > a,
         .site-nav .site-nav-links .nav-item > a:active,

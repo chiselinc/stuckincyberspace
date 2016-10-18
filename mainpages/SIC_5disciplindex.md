@@ -8,19 +8,25 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Disciplindex" [Track 5]
 
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
 <!-- ## Background & Credits -->
 
-## Video
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bq9W2CEGxGU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: Discipline and Index: The Tension Between Control and Freedom on the Internet](/pdfs/chelsea_palmer_2015_SIC_essay6.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 once upon a time there was a big bad war<br>
 or two or more, i'll stay vague so i don't bore<br>
@@ -101,7 +107,7 @@ use tor to ford the moat<br>
 but i know if i left it all without a note<br>
 the regret of not fighting might close up my throat.
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - disciplindex](/mp3s/msGNU-Disciplindex.mp3)
 

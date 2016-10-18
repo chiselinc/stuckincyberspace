@@ -8,19 +8,25 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Jugaad'a Be Kidding Me!" [Track 9]
 
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
 <!-- ## Background & Credits -->
 
-## Video
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DmHZRpBI1os" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: *Jugaad-a* Be Kidding Me: Re-learning Resourceful Innovation From the Global South](/pdfs/chelsea_palmer_2015_SIC_essay8.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 my nation was built on colonialist privileges<br>
 spent its inaugural period exploiting indigenous villages<br>
@@ -73,7 +79,7 @@ scarface or macguiver?
 king of an evil empire or a creative survivor?<br>
 
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - *jugaad'a* be kidding me!](/mp3s/msGNU-IOT.mp3)
 

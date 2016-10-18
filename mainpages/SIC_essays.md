@@ -1,6 +1,6 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
+bkg_color: rgba(23,23,255, 0.25)
 txt_color: rgb(1, 47, 107)
 nav_color: rgba(71,252, 68,0.5)
 nav_txt_color: rgb(1, 47, 107)
@@ -8,7 +8,7 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **"Stuck in Cyberspace" - The Thesis (2015)**
 
-#### Abstract
+#### **Abstract**
 
 Due to developing advances in international technology, modes of engagement
 within the global sphere are quickly changing.  The rise of the Internet has

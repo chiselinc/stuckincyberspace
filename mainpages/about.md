@@ -8,6 +8,9 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **About Me (Chelsea Palmer)**
 
+{:.shrinkpic}
+![Screenshot from "Peep Show"](/images/normal_human_peepshow.jpg)
+
 My three core passions are education, activism, and forging alliances.
 
 If you're looking for information on my professional accomplishments and interests, the most useful place would probably be my [LinkedIn page](https://ca.linkedin.com/in/chelsea-palmer-79280ab5).

@@ -8,6 +8,8 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **Tools I Use and Endorse**
 
+![It sure is a mystery!](/images/field_computer.jpg)
+
 ### Core Computer Stuff
 * [GNU](https://www.gnu.org/)/[Linux](https://www.linuxfoundation.org/)  -- this is where caring about technology started for me
 * [Jekyll](https://jekyllrb.com/) -- for website dev
@@ -27,18 +29,19 @@ I'd like to see the useful interfaces used by programmers and developers to be a
 
 I would recommend, as above, [Atom Text Editor](https://atom.io/) for maximum functionality and flexibility. From there, the addition of [Pandocs](http://pandoc.org/) and Atom packages like [Markdown Preview](https://github.com/atom/markdown-preview) and [Markdown to PDF](https://atom.io/packages/markdown-pdf) allows an intuitive and efficient setup for notetaking, blog text production, and document composition.
 
-Simple markdown files can be synced across devices with your usual/prefered cloud services, and there are a couple of great markdown-friendly mobile editors: [iaWriter for iOS and Android](https://ia.net/writer) and [Jotterpad just for Android](https://2appstudio.com/jotterpad/).
+Simple markdown files can be synced across devices with your usual/prefered cloud services, and there are a couple of great markdown-friendly mobile editors: [iaWriter (for iOS and Android)](https://ia.net/writer) and [Jotterpad (just for Android)](https://2appstudio.com/jotterpad/).
 
 These two sources go into more thorough and effective detail about setting up a writing process flow:
-* [Barbara Tozier on Setting up for Academic Writing](barbaratozier.com/setting-up-for-writing/)
+
+* [Barbara Tozier on Setting up for Academic Writing](http://barbaratozier.com/setting-up-for-writing/)
 * [Atom Forums Discussion on Picking Packages for Academic Writing](https://discuss.atom.io/t/using-atom-for-academic-writing/19222)
 
 ### I've Knowingly Sold My Soul to Some Less Free-as-in-Freedom Platforms
 
-Gulp. The unstable balance between freedom and comfort, idealism and convenience. Unlike [Stallman](gnu.org), I'm no angel in this regard.
+Gulp. The unstable balance between freedom and comfort, idealism and convenience. Unlike [Stallman](http://gnu.org), I'm no angel in this regard.
 
 * [Google](https://en.wikipedia.org/wiki/Don%27t_be_evil) -- I tease them in [this song](SIC_7google.html) but I depend upon their services to manage 80% of my life
-* [Dropbox](mainpages/SIC_7google.md) -- they got me hook, line, and sinker nearly a decade ago, and now hold so much of my data it would take days to download and store elsewhere
+* [Dropbox](https://www.dropbox.com)) -- they got me hook, line, and sinker nearly a decade ago, and now hold so much of my data it would take days to download and store elsewhere
 * [Trello](https://trello.com/) -- haven't yet found a F/OSS Kanban Board as convenient
 * [Pocket](https://getpocket.com/a/queue/list/) -- when I save things to read later, I like them to be cohered into simple text and saved offline!
 * [OneTab](https://www.one-tab.com/) -- this Chrome/Firefox extension has changed my life -- incredibly flexible collapsing/organization of open browser tabs

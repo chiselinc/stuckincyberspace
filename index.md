@@ -1,7 +1,9 @@
 ---
 layout: page
 bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(48, 10, 91)
+txt_color: rgb(1, 47, 107)
+nav_color: rgb(244, 124, 44)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # Homesite of Chelsea Palmer [aka msGNU]

@@ -22,6 +22,9 @@ p {
   font-size: $paragraph-font-size;
 }
 
+h1 {
+  text-align: center;
+}
 
 
 /**
@@ -30,6 +33,14 @@ p {
 img {
     max-width: 100%;
     vertical-align: middle;
+}
+
+.shrinkpic {
+  text-align: center;
+  img {
+    margin: 0 auto;
+    width: 600px;
+  }
 }
 
 
@@ -52,6 +63,7 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    font-size: 1.2rem;
 }
 
 li {
@@ -60,7 +72,6 @@ li {
          margin-bottom: 0;
     }
 }
-
 
 
 /**
@@ -80,7 +91,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: lighten($brand-color, 5%);
     }
 
     &:hover {

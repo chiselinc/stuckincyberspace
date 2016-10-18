@@ -8,19 +8,25 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Terms & Conditions" [Track 7]
 
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
 <!-- ## Background & Credits -->
 
-## Video
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9gA28axxt6E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: Google and Wikipedia: 'Feeling Lucky' or 'Citation Needed'?](/pdfs/chelsea_palmer_2015_SIC_essay3.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 i handed the reins of my life right to google<br>
 i like their free apps! i'm foolish and frugal!<br>
@@ -96,7 +102,7 @@ such a tasty meal they're serving-<br>
 but the tradeoff is unnerving.</i>
 
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - terms & conditions](/mp3s/msGNU-Google.mp3)
 

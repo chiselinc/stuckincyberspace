@@ -8,17 +8,23 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Technological Unconsciousness" [Track 2]
 
-## Video
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wIhyuJMQj-M" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: Shapeshift into Cyborgs: Embedded Technology and Automated Environments](/pdfs/chelsea_palmer_SIC_essay2.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 let's talk about the internet of things!<br>
 microchips hulked out, grew wings<br>
@@ -77,7 +83,7 @@ universal will to become shows vonnegut knew<br>
 our brains are neuroplastic and our limits porous<br>
 so collaborative growth is really working for us.
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - technological unconsciousness](/mp3s/msGNU-IOT.mp3)
 
@@ -85,51 +91,51 @@ so collaborative growth is really working for us.
 ## Source Footage
 
 
-Artificial Brain Simulation - Thalamocortical System: https://youtu.be/u28ijlP6L6M
+[Artificial Brain Simulation - Thalamocortical System](https://youtu.be/u28ijlP6L6M)
 
-Bob Harris gives the fastest Millionaire Phone-A-Friend: https://youtu.be/7oKuLUjKXp0
+[Bob Harris gives the fastest Millionaire Phone-A-Friend](https://youtu.be/7oKuLUjKXp0)
 
-Dessine-moi le bitcoin est-il: https://youtu.be/rOYJfRQNibQ
+[Dessine-moi le bitcoin est-il](https://youtu.be/rOYJfRQNibQ)
 
-Google Earth Basics: https://youtu.be/aEspdspPR7c
+[Google Earth Basics](https://youtu.be/aEspdspPR7c)
 
-Heartbeat flatline: https://youtu.be/tpi5RoNmvTU
+[Heartbeat flatline](https://youtu.be/tpi5RoNmvTU)
 
-How a Smartphone Knows Up from Down: https://youtu.be/KZVgKu6v808
+[How a Smartphone Knows Up from Down](https://youtu.be/KZVgKu6v808)
 (Engineer guy is AWESOME!)
 
-KW x UT: https://youtu.be/hxDhucdYW28
+[KW x UT](https://youtu.be/hxDhucdYW28)
 
-Kurt Vonnegut Interview - Part 1 [WFYIOnline]: https://youtu.be/ojMAgsfgPjA
+[Kurt Vonnegut Interview - Part 1 [WFYIOnline]: (https://youtu.be/ojMAgsfgPjA)
 
-Neuroplasticity: https://youtu.be/5hI6OhtBPmc
+[Neuroplasticity](https://youtu.be/5hI6OhtBPmc)
 
-[Noia] TOTAL - Dogecoin Simulator: https://youtu.be/lQjN4PCf2Yg
+[Noia TOTAL - Dogecoin Simulator](https://youtu.be/lQjN4PCf2Yg)
 
-Picturing the Brain: https://youtu.be/qkYEfWazIfc
+[Picturing the Brain](https://youtu.be/qkYEfWazIfc)
 
-Play Synth Notes in the Linux Shell BASH: https://youtu.be/C1AD17oOVnQ
+[Play Synth Notes in the Linux Shell BASH](https://youtu.be/C1AD17oOVnQ)
 
-Robot Reality: https://youtu.be/9TEjRhw6KGQ
+[Robot Reality](https://youtu.be/9TEjRhw6KGQ)
 
-Super Mario Bros. and Tennis Toploading: https://youtu.be/wyiBuX9y16k
+[Super Mario Bros. and Tennis Toploading](https://youtu.be/wyiBuX9y16k)
 
-Teaming Up_ Imaging and Genetics: https://youtu.be/XsapnUYbGHM
+[Teaming Up_ Imaging and Genetics](https://youtu.be/XsapnUYbGHM)
 
-Terminator salvation - skynet trick: https://youtu.be/YWPIwTNCnfA
+[Terminator salvation - skynet trick](https://youtu.be/YWPIwTNCnfA)
 
-The Industrial Internet of Things: https://youtu.be/8NGzrtK7eV0
+[The Industrial Internet of Things](https://youtu.be/8NGzrtK7eV0)
 
-The Internet of THings Architecture, IoT-A: https://youtu.be/nEVatZruJ7k
+[The Internet of THings Architecture, IoT-A](https://youtu.be/nEVatZruJ7k)
 
-Trent McConaghy - Driving Moore's Law with Python-Powered Machine Learning: https://youtu.be/Jm-eBD9xR3w
+[Trent McConaghy - Driving Moore's Law with Python-Powered Machine Learning](https://youtu.be/Jm-eBD9xR3w)
 (I found this randomly as it was the best source for a few charts on Moore's Law-- imagine my surprise when I saw that it was a talk from the awesome Trent McConaghy of Bigchain DB, who are doing great things in the decentralized tech world!)
 
-Twitter nasil kullanilir: https://youtu.be/0F5gzJFdWas
+[Twitter nasil kullanilir](https://youtu.be/0F5gzJFdWas)
 
-Universal health_ From private coverage to public care: https://youtu.be/YzNS5jd-LTY
+[Universal health_ From private coverage to public care](https://youtu.be/YzNS5jd-LTY)
 
-Unix & holistic technologies - SquatConf Berlin: https://youtu.be/TMfTKH7fIkU
+[Unix & holistic technologies - SquatConf Berlin](https://youtu.be/TMfTKH7fIkU)
 (Conference Speaker: noffle)
 
-Zoom Into a Microchip: https://youtu.be/Fxv3JoS1uY8
+[Zoom Into a Microchip](https://youtu.be/Fxv3JoS1uY8)

@@ -8,19 +8,25 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "A Dirty Shame" [Track 3]
 
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
 <!-- ## Background & Credits -->
 
-## Video
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qmLp8hNPKq0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: A Dirty Shame: Labelling, Deviance, and the New Media Spotlight](/pdfs/chelsea_palmer_2015_SIC_essay4.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 hikikomori hiccups stuck in cyberspace<br>
 useless YouTube fights splashin egg on my face<br>
@@ -71,7 +77,7 @@ leave me aching sore, bitter hatred stuck in my craw<br>
 PR planned this bet, has justine landed yet,<br>
 no such thing as bad publicity, take what we can get.
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - a dirty shame](/mp3s/msGNU-Shame.mp3)
 

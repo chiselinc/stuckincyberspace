@@ -8,19 +8,25 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Sharecon" [Track 6]
 
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
+
 <!-- ## Background & Credits -->
 
-## Video
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MkY09ebJXEQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 [Thesis Essay: The Sharing Economy: From Each According to Their Need, To Each According to Their Ability](/pdfs/chelsea_palmer_2015_SIC_essay7.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 new age of labour<br>
 do yourself a favor<br>
@@ -74,7 +80,7 @@ hope a new day's coming<br>
 even though it's surely coming slow<br>
 
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - sharecon](/mp3s/msGNU-Sharecon.mp3)
 

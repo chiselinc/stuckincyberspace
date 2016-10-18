@@ -8,9 +8,14 @@ nav_txt_color: rgb(1, 47, 107)
 
 # "Stuck in Cyberspace" [Track 1]
 
-<!-- ## Background & Credits -->
+[Video](#video)<br>
+[Accompanying Essay (PDF)](#pdf)<br>
+[Lyrics](#lyrics)<br>
+[Download MP3](#mp3)<br>
+[Source Footage](#foot)
 
-## Video
+<!-- ## Background & Credits -->
+<h2 id='video'> Video </h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GaCbl2Lh0ng" frameborder="0" allowfullscreen></iframe>
@@ -18,11 +23,11 @@ nav_txt_color: rgb(1, 47, 107)
 
 <br>
 
-## Corresponding Essay (PDF)
+<h2 id='pdf'> Accompanying Essay (PDF) </h2>
 
 To be honest, this first track is only peripherally linked to a specific essay from the thesis-- it serves as more of an overall introduction to the msGNU project. However, the closest essay to pair with it would be: [Transmit or Get Off the Net: Apathy Versus Collaboration in the Internet Age](/pdfs/chelsea_palmer_2015_SIC_essay5.pdf)
 
-## Lyrics
+<h2 id='lyrics'> Lyrics </h2>
 
 everywhere i go, it's the topic<br>
 and everyone i know, we can't stop it<br>
@@ -74,11 +79,11 @@ brace yourself, we're gettin stuck in cyberspace tonight.<br>
 
 **INSERT BREWSTER KAHLE**
 
-## Download MP3
+<h2 id='mp3'> Download MP3 </h2>
 
 [msGNU - stuck in cyberspace](/mp3s/msGNU-Intro.mp3)
 
-## Source Footage
+<h2 id='foot'> Source Footage </h2>
 
 [Apple Mac OS X 10.7 through 10.8+](https://youtu.be/ztpCNmDYDZ4)
 
