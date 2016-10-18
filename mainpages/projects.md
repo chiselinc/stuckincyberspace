@@ -8,12 +8,14 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **Current and Future Projects**
 
+# Under Construction at the Moment!
+
 {:.shrinkpic}
 ![Unknown source; earliest instance on imageboards 2008](/images/linux_better.jpg)
   <figcaption>"I got some opinions..."</figcaption>
 <br>
 
-This is a collection of links to some of my past and present projects, as well as organizations I particularly admire, in the following rough categories.
+<!-- This is a collection of links to some of my past and present projects, as well as organizations I particularly admire, in the following rough categories.
 
 [Academic](#academic)<br>
 [Global Action](#action)<br>
@@ -35,7 +37,7 @@ This is a collection of links to some of my past and present projects, as well a
 
 <!-- * Ground up development-- jugaad-- empowering communities to solve their own problems
 * Agency - Access - Education -->
-
+<!--
 <h2 id='copyright'> Copyright </h2>
 
 My personal statement on Copyright
@@ -47,15 +49,15 @@ If we have to use a "fenced in" centralized platform like Youtube we should at l
 * GNU GPL
 * Creative Commons
 * Point to resources like EFF and OpenMedia
-
+ -->
 <!-- * Resources for "backtracing" fair attribution -->
 <!-- Track down those resources on fair music sharing-- Imogen Heap, Timothy Wisdom -->
-
-<h2 id='creative'> Creative </h2>
+<!--
+<h2 id='creative'> Creative </h2> -->
 
 <!-- * msGNU obv
 * (retired) lady mastermind -->
-
+<!--
 * decentralized dance party
 * call for participation: 2017 blockchain ep, all human voices
 
@@ -63,7 +65,7 @@ If we have to use a "fenced in" centralized platform like Youtube we should at l
 
 * dctrl vancouver
 * speaking on blockchain, availability for conferences
-* d-web summit
+* d-web summit -->
 
 
 <!-- * IEEE blockchain initiative?

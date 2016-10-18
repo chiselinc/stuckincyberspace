@@ -257,6 +257,9 @@ html, body {
   font-size: 20px;
   margin-top: 1rem; }
 
+.centlinks {
+  text-align: center; }
+
 /**
  * Syntax highlighting styles
  */
