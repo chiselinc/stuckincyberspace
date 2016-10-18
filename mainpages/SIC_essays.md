@@ -1,10 +1,12 @@
 ---
 layout: page
 bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(71,252, 68,0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
-# "Stuck in Cyberspace" - The 2015 Thesis
+# **"Stuck in Cyberspace" - The Thesis (2015)**
 
 #### Abstract
 

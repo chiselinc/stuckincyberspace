@@ -1,18 +1,22 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+bkg_color: rgba(71,252, 68,0.5)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(216, 54, 154, 0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Technological Unconsciousness" [Track 2]
-
-## Background & Credits
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wIhyuJMQj-M" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: Shapeshift into Cyborgs: Embedded Technology and Automated Environments](/pdfs/chelsea_palmer_SIC_essay2.pdf)
 
 ## Lyrics
 
@@ -75,11 +79,8 @@ so collaborative growth is really working for us.
 
 ## Download MP3
 
-[msGNU - technological unconsciousness](/mp3s/Iot.mp3)
+[msGNU - technological unconsciousness](/mp3s/msGNU-IOT.mp3)
 
-## Essay
-
-[Thesis Essay: Shapeshift into Cyborgs](/pdfs/chelsea_palmer_SIC_essay2.pdf)
 
 ## Source Footage
 

@@ -1,18 +1,24 @@
 ---
 layout: page
 bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(71,252, 68,0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "A Dirty Shame" [Track 3]
 
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qmLp8hNPKq0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: A Dirty Shame: Labelling, Deviance, and the New Media Spotlight](/pdfs/chelsea_palmer_2015_SIC_essay4.pdf)
 
 ## Lyrics
 
@@ -64,6 +70,11 @@ it's always rule 34 or godwin's law<br>
 leave me aching sore, bitter hatred stuck in my craw<br>
 PR planned this bet, has justine landed yet,<br>
 no such thing as bad publicity, take what we can get.
+
+## Download MP3
+
+[msGNU - a dirty shame](/mp3s/msGNU-Shame.mp3)
+
 
 ## Source Footage
 

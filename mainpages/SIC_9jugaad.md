@@ -1,19 +1,24 @@
 ---
 layout: page
 bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(71,252, 68,0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Jugaad'a Be Kidding Me!" [Track 9]
 
-
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DmHZRpBI1os" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: *Jugaad-a* Be Kidding Me: Re-learning Resourceful Innovation From the Global South](/pdfs/chelsea_palmer_2015_SIC_essay8.pdf)
 
 ## Lyrics
 
@@ -66,6 +71,12 @@ he might just teach you how to spice it up and reinvent the dish.<br>
 ()<b>x2</b>) who's more impressive?<br>
 scarface or macguiver?
 king of an evil empire or a creative survivor?<br>
+
+
+## Download MP3
+
+[msGNU - *jugaad'a* be kidding me!](/mp3s/msGNU-IOT.mp3)
+
 
 ## Source Footage
 

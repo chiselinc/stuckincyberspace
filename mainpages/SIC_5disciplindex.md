@@ -1,18 +1,24 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+bkg_color: rgba(71,252, 68,0.5)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(216, 54, 154, 0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Disciplindex" [Track 5]
 
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bq9W2CEGxGU" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: Discipline and Index: The Tension Between Control and Freedom on the Internet](/pdfs/chelsea_palmer_2015_SIC_essay6.pdf)
 
 ## Lyrics
 
@@ -94,6 +100,11 @@ encrypt that little ship,<br>
 use tor to ford the moat<br>
 but i know if i left it all without a note<br>
 the regret of not fighting might close up my throat.
+
+## Download MP3
+
+[msGNU - disciplindex](/mp3s/msGNU-Disciplindex.mp3)
+
 
 ## Source Footage
 

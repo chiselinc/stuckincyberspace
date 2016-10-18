@@ -1,18 +1,24 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+bkg_color: rgba(71,252, 68,0.5)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(216, 54, 154, 0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Fear of Logging Off" [Track 8]
 
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/oXehxFgoAEI" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: I Can't Find My Cell Phone, I Can Hardly Breathe: Omnipresent Accessibility and the Fear of Missing Out](/pdfs/chelsea_palmer_2015_SIC_essay1.pdf)
 
 ## Lyrics
 
@@ -51,6 +57,12 @@ i still know that there's something else inside of me<br>
 that wants to be free in the way that i used to be<br>
 little kid climbing alone to the top of a tree<br>
 empty pockets, and no need for anyone else to see.
+
+
+## Download MP3
+
+[msGNU - fear off logging off](/mp3s/msGNU-FOLO.mp3)
+
 
 ## Source Footage
 

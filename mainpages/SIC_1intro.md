@@ -1,18 +1,26 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+bkg_color: rgba(216, 54, 154, 0.5)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(23,23,255,0.4)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Stuck in Cyberspace" [Track 1]
 
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GaCbl2Lh0ng" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
+
+## Corresponding Essay (PDF)
+
+To be honest, this first track is only peripherally linked to a specific essay from the thesis-- it serves as more of an overall introduction to the msGNU project. However, the closest essay to pair with it would be: [Transmit or Get Off the Net: Apathy Versus Collaboration in the Internet Age](/pdfs/chelsea_palmer_2015_SIC_essay5.pdf)
 
 ## Lyrics
 
@@ -65,6 +73,10 @@ everybody on board buckled in tight<br>
 brace yourself, we're gettin stuck in cyberspace tonight.<br>
 
 **INSERT BREWSTER KAHLE**
+
+## Download MP3
+
+[msGNU - stuck in cyberspace](/mp3s/msGNU-Intro.mp3)
 
 ## Source Footage
 

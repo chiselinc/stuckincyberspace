@@ -1,18 +1,24 @@
 ---
 layout: page
 bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(71,252, 68,0.5)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Sharecon" [Track 6]
 
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MkY09ebJXEQ" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: The Sharing Economy: From Each According to Their Need, To Each According to Their Ability](/pdfs/chelsea_palmer_2015_SIC_essay7.pdf)
 
 ## Lyrics
 
@@ -65,7 +71,13 @@ we're busking to our coffins<br>
 we don't see any other way to go<br>
 but i'm still grinning and running<br>
 hope a new day's coming<br>
-even though it's surely coming slow
+even though it's surely coming slow<br>
+
+
+## Download MP3
+
+[msGNU - sharecon](/mp3s/msGNU-Sharecon.mp3)
+
 
 ## Source Footage
 

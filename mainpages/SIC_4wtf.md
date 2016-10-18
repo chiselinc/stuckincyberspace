@@ -1,12 +1,20 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+bkg_color: rgba(216, 54, 154, 0.5)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(23,23,255,0.4)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "What the Foucault" [Track 4]
 
-## Background & Credits
+<!-- ## Background & Credits
+
+And perhaps strangest of all is msGNU's Foucault-chasing wedding dress. Nana and her mother handmade it for her 1949 wedding. She wanted to just get rid of it,
+
+I wanted to instead highlight it, give it a second life. It fits perfectly and I dyed it blue and painted the binary code for *msGNU* on the front.
+
+I will take care of it to the best of my ability, even long after it stops fitting. It will be a marker of the hardworking, kind, and loving woman who raised four kids on her own in small town New England. -->
 
 ## Video
 
@@ -14,7 +22,9 @@ txt_color: rgb(0,7,91)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s5IyetCQozo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Lyrics
+## Corresponding Essay (PDF)
+
+[The section of my lit review summarizing some of Foucault's work can be found on pages 36-52 in my full thesis](/pdfs/Chelsea Palmer_2015_Masters_Thesis_Stuck_in_Cyberspace.pdf)
 
 What the Foucault?<br>
 Sayin who the Michel<br>
@@ -75,6 +85,11 @@ button up your favourite brand name as you get dressed<br>
 social systems wouldn't last without giving us pleasure<br>
 gettin dizzy as we chase what we're taught to call treasure<br>
 and we consent to resented commands even within our leisure<br>
+
+## Download MP3
+
+[msGNU - what the foucault?](/mp3s/msGNU-Foucault.mp3)
+
 
 ## Source Footage
 

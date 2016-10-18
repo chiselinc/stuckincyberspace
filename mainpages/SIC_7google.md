@@ -1,18 +1,24 @@
 ---
 layout: page
-bkg_color: rgba(23,23,255,0.4)
-txt_color: rgb(0,7,91)
+bkg_color: rgba(216, 54, 154, 0.5)
+txt_color: rgb(1, 47, 107)
+nav_color: rgba(23,23,255,0.4)
+nav_txt_color: rgb(1, 47, 107)
 ---
 
 # "Terms & Conditions" [Track 7]
 
-## Background & Credits
+<!-- ## Background & Credits -->
 
 ## Video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9gA28axxt6E" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Corresponding Essay (PDF)
+
+[Thesis Essay: Google and Wikipedia: 'Feeling Lucky' or 'Citation Needed'?](/pdfs/chelsea_palmer_2015_SIC_essay3.pdf)
 
 ## Lyrics
 
@@ -88,6 +94,12 @@ to consume a slow poison, malignant for real<br>
 as long as it comes in such a tasty meal.<br><br>
 such a tasty meal they're serving-<br>
 but the tradeoff is unnerving.</i>
+
+
+## Download MP3
+
+[msGNU - terms & conditions](/mp3s/msGNU-Google.mp3)
+
 
 ## Source Footage
 
