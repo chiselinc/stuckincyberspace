@@ -8,7 +8,7 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **About Me (Chelsea Palmer)**
 
-# [Professional](#prof) --- [Thank Yous](#thanks) --- [Personal](#pers) --- [Ethics/Philosophy](#ethics)
+# [Professional](#prof) --- [Thank Yous](#thanks) --- [Personal](#pers) --- [What is GNU?](#GNU)
 
 <h1 id='prof'> Professional </h1>
 
@@ -21,6 +21,11 @@ If you're looking for information on my professional accomplishments and interes
   <figcaption>First traceable upload of this image was by Twitter user @clmazin in November 2015</figcaption>
 
   <br>
+
+### Copyright Policy
+
+I aim to use primarily Creative Commons and Public Domain licensed footage in my work; however, there is unfortunately a dearth of that on current day Youtube (something I hope to help change!). In some cases, I have used content that is listed under the Standard YouTube License, in the understanding that short-form sampling for educational rap would be considered Fair Use. Please contact me at IM.ms.GNU@gmail.com if you disagree and would like me to remove your footage from my videos.
+
 
 <h1 id='thanks'> Thank Yous </h1>
 
@@ -51,18 +56,16 @@ I never could have completed my thesis project, and thus this follow-up, without
 * statement on american citizenship effect on willful data blindness
 * black lives matter, gender politix, but men's issues are important also -->
 
-<h1 id='ethics'> Ethics and Philosophy </h1>
-
 ### Philosophical Mission Statement
 
 If we can’t rally the masses for informed and purposeful adoption of innovative technology, the greatest strides we make will be drowned out by the increasingly siloed realm of the consumerist and surveillance-driven Web. Maybe more stakeholders will climb on board if we take ourselves much less seriously.
 
-### Copyright Policy
 
-I aim to use primarily Creative Commons and Public Domain licensed footage in my work; however, there is unfortunately a dearth of that on current day Youtube (something I hope to help change!). In some cases, I have used content that is listed under the Standard YouTube License, in the understanding that short-form sampling for educational rap would be considered Fair Use. Please contact me at IM.ms.GNU@gmail.com if you disagree and would like me to remove your footage from this video.
+<h1 id='GNU'> What is GNU? </h1>
 
-### The Origin of "GNU"
-https://www.gnu.org/
+What's GNU? [GNU's Not Unix!](https://www.gnu.org/gnu/manifesto.en.html)
+
+The GNU Project is central to the Free Software Movement, with [Richard M. Stallman](https://stallman.org/) at its helm. The Free Software Movement has never faltered or compromised ideals along the slippery-slope ride of the past 30 some-odd years of widespread technological adaptation. Freedom comes first, not profit. Humans come first, not corporations. Please visit the [GNU homepage](https://www.gnu.org/) to see a more thorough and enthusiastic argument than I could ever hope to present on these matters.
 
 {:.shrinkpic}
 ![Poking fun at Stallman... with love](/images/gnu_linux.png)

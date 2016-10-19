@@ -28,16 +28,6 @@ I like nostalgia, randomness, and uneven edges. Bright colours and jump cuts [Li
 <!-- I don't care how jarring they are, I'll always take a hard cut over a proper transition. -->
 <!-- In short, I share my aesthetic tastes with a lot of 6 year olds. I never grew out of goofy Crayola-style crafts, and I don't intend to.  -->
 
-##### I idolize the visual aesthetics of the following artists:
-
-* [John Waters](https://youtu.be/M6JNevrNvFk)
-* [Frank Zappa](https://youtu.be/6f1MRrNMNSQ)
-* [Michel Gondry](https://youtu.be/XJnhaXwK86M)
-* [Harmony Korine](https://youtu.be/BUsB3S0CfKE)
-* [Jean-Michel Basquiat](http://basquiat.com/)
-* [The Dadaists](https://web.archive.org/web/20160131161705/http://www.dadart.com/dadaism/dada/020-history-dada-movement.html)
-* [Carolee Schneemann](http://ubu.com/film/schneemann.html)
-
 ### Using Pieces of the Past
 
 #### I've generally produced all of my artistic projects on a near-zero budget.
@@ -48,7 +38,11 @@ In addition to this Yankee-spirited thriftiness, the majority of the props and c
 
 #### Most consistently, I used knick knacks and settings that belong to my Nana, who instilled in me this taste for quirkiness.
 
-The 1-2 hours that it took to set up, plan, and execute each shoot (which would result in, at most, half a minute of edited footage) gave me time to appreciate the artifacts of my childhood home as pieces in the puzzle of my near 30 years. I'd highly recommend occasional immersion in nostalgia, it's invigorating.
+{:.shrinkpic}
+![Thanks, Nana!](/images/foucaultporch.JPG)
+<br>
+
+The most unique example of this, perhaps, is the handmade wedding dress from 1949 she allowed me to "remix" into an outfit for the "What the Foucault" video. I'm honoured to wear it, and hope to ensure it lasts another 60 years!
 
 ### Unfinished Art: The Perfect is the Enemy of the Good
 
@@ -61,6 +55,16 @@ I will always look back on any song, video, or writing that I produce with at le
 Making such fleeting, construction-paper-style, childlike art, I realize that I'm putting myself out there. Like many people, I get anxious about being cool in the day to day social world, but that doesn't seem to extend to the goofy media production.
 
 Writing rap and making videos just makes me happy, deep inside. I'm okay with being pigeonholed as a weird nerd, as long as I can get my ideas out there.
+
+##### I idolize the visual aesthetics of the following artists:
+
+* [John Waters](https://youtu.be/M6JNevrNvFk)
+* [Frank Zappa](https://youtu.be/6f1MRrNMNSQ)
+* [Michel Gondry](https://youtu.be/XJnhaXwK86M)
+* [Harmony Korine](https://youtu.be/BUsB3S0CfKE)
+* [Jean-Michel Basquiat](http://basquiat.com/)
+* [The Dadaists](https://web.archive.org/web/20160131161705/http://www.dadart.com/dadaism/dada/020-history-dada-movement.html)
+* [Carolee Schneemann](http://ubu.com/film/schneemann.html)
 
 
 

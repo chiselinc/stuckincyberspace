@@ -8,8 +8,10 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **"Stuck in Cyberspace" - The 2016 Rap Album**
 
+{:.shrinkpic}
+![Just playin around...](/images/blueflute.JPG)
+<br>
 
-![What the Foucault?!](/images/foucaultporch.JPG)
 
 ### **Song Pages (Containing Videos, Lyrics, Downloads, and Credits)**
 
