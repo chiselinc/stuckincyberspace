@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/chiselinc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stuckincyber.space
+  * I am chiselinc (https://keybase.io/chiselinc) on keybase.
+  * I have a public key ASBiNzgDQ2tfetK0fE37PKIz-ZbQTyWDidPhEZELfBsetAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012062373803436b5f7ad2b47c4dfb3ca233f996d04f258389d3e111910b7c1b1eb40a",
+            "host": "keybase.io",
+            "kid": "012062373803436b5f7ad2b47c4dfb3ca233f996d04f258389d3e111910b7c1b1eb40a",
+            "uid": "44f111c80007d52467cfa71eca9e3719",
+            "username": "chiselinc"
+        },
+        "service": {
+            "hostname": "stuckincyber.space",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1477577880,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1477577876,
+        "hash": "330f4440844f54a9d00d8dfa2ca6bb4287ce137cfdb7158218e66573fd9f0f8d14a29fb1d065faddb1be0bf0fac1715e5c55d5d8401b399767e172f55ff400dc",
+        "seqno": 690744
+    },
+    "prev": "09f9315ded2ff0fee3b8aa48206fce210412008fb80c852d9e3e3dd80f7234d2",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYjc4A0NrX3rStHxN+zyiM/mW0E8lg4nT4RGRC3wbHrQKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjIzNzM4MDM0MzZiNWY3YWQyYjQ3YzRkZmIzY2EyMzNmOTk2ZDA0ZjI1ODM4OWQzZTExMTkxMGI3YzFiMWViNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjIzNzM4MDM0MzZiNWY3YWQyYjQ3YzRkZmIzY2EyMzNmOTk2ZDA0ZjI1ODM4OWQzZTExMTkxMGI3YzFiMWViNDBhIiwidWlkIjoiNDRmMTExYzgwMDA3ZDUyNDY3Y2ZhNzFlY2E5ZTM3MTkiLCJ1c2VybmFtZSI6ImNoaXNlbGluYyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3R1Y2tpbmN5YmVyLnNwYWNlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3NzU3Nzg4MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc3NTc3ODc2LCJoYXNoIjoiMzMwZjQ0NDA4NDRmNTRhOWQwMGQ4ZGZhMmNhNmJiNDI4N2NlMTM3Y2ZkYjcxNTgyMThlNjY1NzNmZDlmMGY4ZDE0YTI5ZmIxZDA2NWZhZGRiMWJlMGJmMGZhYzE3MTVlNWM1NWQ1ZDg0MDFiMzk5NzY3ZTE3MmY1NWZmNDAwZGMiLCJzZXFubyI6NjkwNzQ0fSwicHJldiI6IjA5ZjkzMTVkZWQyZmYwZmVlM2I4YWE0ODIwNmZjZTIxMDQxMjAwOGZiODBjODUyZDllM2UzZGQ4MGY3MjM0ZDIiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAF5iMewTzKwI3jB2aLHIDcho9ETSxPS8mzG852B61Aq11fLwTUCZaQTN06V/H7npUNJ+C5LZYMfkb0LFjJ+fjAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK1eVjldKzS6+FAvu8wDOk1zP0y6UF4OraDxDZ+m4c2Eo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chiselinc
+
+==================================================================
