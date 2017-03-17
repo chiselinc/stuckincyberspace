@@ -7,4 +7,4 @@ nav_txt_color: rgb(1, 47, 107)
 ---
 
 ![Drop in Global Free School promo](/images/2017projects/dctrl_freischule.png)
-  <figcaption>Come see how the other half lives! [Spoiler alert: *in a basement*]</figcaption>
+  <figcaption>Come see how the other half lives! [Spoiler alert: in a basement]</figcaption>

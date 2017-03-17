@@ -7,3 +7,7 @@ nav_txt_color: rgb(1, 47, 107)
 ---
 
 ![April 5 2017 - BCSides Vancouver Free Drop-in Blockchain Summit](/images/2017projects/techtivus.png)
+
+can i anchor?
+
+<img style="float: right;" src="/images/2017projects/techtivus.png">
