@@ -42,6 +42,5 @@ Gulp. The unstable balance between freedom and comfort, idealism and convenience
 
 * [Google](https://en.wikipedia.org/wiki/Don%27t_be_evil) -- I tease them in [this song](SIC_7google.html) but I depend upon their services to manage 80% of my life
 * [Dropbox](https://www.dropbox.com) -- they got me hook, line, and sinker nearly a decade ago, and now hold so much of my data it would take days to download and store elsewhere
-* [Trello](https://trello.com/) -- haven't yet found a F/OSS Kanban Board as convenient
-* [Pocket](https://getpocket.com/a/queue/list/) -- when I save things to read later, I like them to be cohered into simple text and saved offline!
+* [Trello](https://trello.com/) -- haven't yet found a F/OSS Kanban Board this convenient
 * [OneTab](https://www.one-tab.com/) -- this Chrome/Firefox extension has changed my life -- incredibly flexible collapsing/organization of open browser tabs
