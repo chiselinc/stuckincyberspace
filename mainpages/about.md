@@ -14,6 +14,8 @@ nav_txt_color: rgb(1, 47, 107)
 
 ### My three core passions are education, activism, and forging alliances.
 
+I am the Acting Executive Director of the [Human Data Commons Foundation](http://www.humandatacommons.org), a nonprofit focused on user rights and social good research in the age of biometric data tracking.
+
 If you're looking for information on my professional accomplishments and interests, the most useful place would probably be my [LinkedIn page](https://ca.linkedin.com/in/chelsea-palmer-79280ab5).
 
 {:.shrinkpic}
@@ -24,7 +26,7 @@ If you're looking for information on my professional accomplishments and interes
 
 ### Copyright Policy
 
-I aim to use primarily Creative Commons and Public Domain licensed footage in my work; however, there is unfortunately a dearth of that on current day Youtube (something I hope to help change!). In some cases, I have used content that is listed under the Standard YouTube License, in the understanding that short-form sampling for educational rap would be considered Fair Use. Please contact me at IM.ms.GNU@gmail.com if you disagree and would like me to remove your footage from my videos.
+I use primarily Creative Commons and Public Domain licensed footage in my work; unfortunately, there is a dearth of that on current day Youtube (something I hope to help change!). In some cases, I have used content that is listed under the Standard YouTube License, in the understanding that short-form sampling for educational rap would be considered Fair Use. Please contact me at IM.ms.GNU@gmail.com if you disagree and would like me to remove your footage from my videos.
 
 
 <h1 id='thanks'> Thank Yous </h1>
