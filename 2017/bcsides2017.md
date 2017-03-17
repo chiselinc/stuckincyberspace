@@ -10,4 +10,4 @@ nav_txt_color: rgb(1, 47, 107)
 
 can i anchor?
 
-<img style="float: right;" src="/images/2017projects/techtivus.png">
+<img style="float: center;" src="/images/2017projects/techtivus.png">
