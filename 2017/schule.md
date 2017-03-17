@@ -6,9 +6,5 @@ nav_color: rgba(23,23,255,0.4)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-<img src="/images/2017projects/techtivus.png" width="600">
-
---------------
-
-
-![April 5 2017 - BCSides Vancouver Free Drop-in Blockchain Summit](/images/2017projects/techtivus.png)
+![Drop in Global Free School promo](/images/2017projects/dctrl_freischule.png)
+  <figcaption>Come see how the other half lives! [Spoiler alert: *in a basement*]</figcaption>
