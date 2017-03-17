@@ -8,15 +8,19 @@ nav_txt_color: rgb(1, 47, 107)
 
 # Blockchain Resource Guide
 
-Compiled by Chelsea Palmer on March 8, 2017. This will be a living document, and submission of new links is encouraged: [submit these via comments on the relevant issue on my github repository.](https://github.com/chiselinc/stuckincyberspace/issues/4)
+Compiled by Chelsea Palmer on March 8, 2017. This will be a living document, and submission of new links is encouraged: [please submit these via comments on the relevant issue on my github repository.](https://github.com/chiselinc/stuckincyberspace/issues/4)
 
 ## Immediate Opportunities to Engage:
 
-### April 2017 - Vancouver, BC Blockchain Events
+### Upcoming Vancouver, BC Blockchain Events
 <br>
-**[April 4: IEEE Blockchain Special Interest Group Presents the First Annual Blockchain Industry Summit](http://blockchain.ieee.org/2017-blockchain-summit/)**
 
-**[April 5: Human Data Commons (in association with IEEE) Presents the Blockchain "BCSides" Free Community Event](http://stuckincyber.space/2017/bcsides2017)**
+The first week of April has turned into a regular **blockstravaganza**, with multiple major events and collaboration across sectors.
+**[April 4: IEEE Blockchain Special Interest Group Presents the First Annual Blockchain Industry Summit - ](http://blockchain.ieee.org/2017-blockchain-summit/)**
+
+**[April 5: Human Data Commons Foundation (in association with IEEE) Presents the Blockchain "BCSides" Free Community Event](http://stuckincyber.space/2017/bcsides2017)**
+
+**[April 5 (Evening): Decentralized Autonomous Soiree]()
 
 **[April 7 & 8: Local Node of Global Coinfest 2017](https://www.meetup.com/bitcoinvan/events/237974269/)**
 
