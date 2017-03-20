@@ -8,6 +8,8 @@ nav_txt_color: rgb(1, 47, 107)
 
 # Blockchain Resource Guide
 
+![What happens on the blockchain, stays on the blockchain.](/images/2017projects/dctrl_blockchain.jpg)
+
 Compiled by Chelsea Palmer on March 8, 2017. This will be a living document, and submission of new links is encouraged: [please submit these via comments on the relevant issue on my github repository.](https://github.com/chiselinc/stuckincyberspace/issues/4)
 
 ## Immediate Opportunities to Engage:
