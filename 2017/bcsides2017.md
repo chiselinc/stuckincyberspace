@@ -44,12 +44,12 @@ Playing around with ciphers and classic projects
   * [Use Case: Refugees and "Brain Wallets"]
 * *Free as in Freedom: Identity, Autonomy, and Applying F/LOSS Values*
   * [Use Case: Grappling with the Increasing Monetization of Blockchain Innovation]
-  *
+
 ### **18:00 - 20:00: Community presentations on issues around decentralization and local projects**
   * Insights and discoveries from a 3 year old ground-up decentralized community
   * Using tech dev tools and platforms to enable more democratic and transparent governance
   * Creating autonomous nodes for true decentralization: grappling with replicability, verifiability, and adaptability
-  *
+
 ### **20:00 - ???: Decentralized Autonomous Soiree - open social mixer for cross-sector networking**
   * Decentralization as human liberation
   * Linking Internet of Things projects into the Bitcoin blockchain
