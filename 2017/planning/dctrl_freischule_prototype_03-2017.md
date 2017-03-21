@@ -7,7 +7,7 @@ The shift toward an information-based labour economy necessitates unrestricted a
 The "free school" concept -- anchored in the traditions of radical and collaborative community commons spaces -- breaks down this barrier, and operates based on principles of inclusivity, co-learning, and transparency.
 
 ## Structure
-A daytime drop-in program for community members to view streaming live global tech conferences and curated thematic lectures, as well as engaging in hands-on workshops and discussion groups.
+A daytime drop-in program for community members to view streaming live global tech conferences and curated thematic lectures, and engaging with their fellow viewers. It is the discourse of many people watching together that can support and cultivate true innovation.
 
 ## Bonus Value Adds
 
@@ -67,13 +67,13 @@ A daytime drop-in program for community members to view streaming live global te
 
 ### Asks from more formal partners [academic institutions, private sector, policymaking]
 
-* positive metrics outcome on trial run
-* visibility/acknowledgement for partner sponsors
-* active engagement of academic students with material that is "moving too fast" for mainstream curriculum to keep up with
-* pool of "HQP" (which I think is kind of a gross/objectifying labour concept)
-* the program must be self-sustaining eventually, and ready to move to another space if it becomes necessary
+* Positive metrics outcome on trial run -- does this have a real and positive effect?
+* Visibility/acknowledgement of partner sponsors, cross-promotion
+* Active engagement of academic students with the material that is "moving too fast" for mainstream curriculum to keep up with
+* Pool of "HQP" (which I think is kind of a gross/objectifying labour concept - let's instead try out "Highly Excellent Humans (HEH)")
+* The program must be self-sustaining eventually, and ready to move to another space if it becomes necessary
 
 ## Eventual Metrics of Analysis/Application
 
-* Connecting the concepts of what makes this successful to Sandy Pentland's work
+* Connecting the concepts of what makes this successful (or not) to Sandy Pentland's work on social physics
 * Anonymous attendee count and opt-in participant feedback

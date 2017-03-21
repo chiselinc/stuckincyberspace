@@ -8,9 +8,6 @@ nav_txt_color: rgb(1, 47, 107)
 
 # Blockchain Resource Guide
 
-{:.shrinkpic}
-![What happens on the blockchain, stays on the blockchain.](/images/2017projects/happens_on_blockchain.png)
-
 Compiled by Chelsea Palmer on March 8, 2017. This will be a living document, and submission of new links is encouraged: [please submit these via comments on the relevant issue on my github repository.](https://github.com/chiselinc/stuckincyberspace/issues/4)
 
 ## Immediate Opportunities to Engage:
@@ -111,3 +108,7 @@ I had the honor of attending the first annual DWeb Summit, hosted at the [Intern
 * [Full Recording - Day Two – June 9](https://youtu.be/PfWgin3JlAU)
 
 * [Me rapping as msGNU - featuring Richard M. Stallman!](https://youtu.be/bq9W2CEGxGU)
+
+![What happens on the blockchain, stays on the blockchain.](/images/2017projects/happens_on_blockchain.png)
+Quote credit: Cameron Gray
+Drawing credit: Tanna Postlewaite
