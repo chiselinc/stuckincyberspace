@@ -24,17 +24,17 @@ Additionally, **dctrl hackerspace** has frequent events, and you can keep track 
 
 ## Education
 
-### Dissemination of General Blockchain Resources
+### - Dissemination of General Blockchain Resources
 
 I have compiled a "living document" of intro to blockchain resources and opportunities to engage in the space, [located here](http://stuckincyber.space/2017/blockchain_resource_sheet_2017) -- I welcome suggestions for further links, please post [as comments on the relevant github issue](https://github.com/chiselinc/stuckincyberspace/issues/4).
 
-### Curriculum for Widespread and Decentralized Implementation
+### - Curriculum for Widespread and Decentralized Implementation
 
-#### *dctrl free school prototype*
+#### -- dctrl free school prototype
 
 From March 20 to April 20, I am conducting an early test run for an ideally long term project-- cultivating video playlists on dynamic topics in tech, which can be used anytime and anywhere to anchor discussion groups and co-learning environments. More information, and the existing cultivated playlists, can be [found here](http://stuckincyber.space/2017/schule).
 
-#### Information Security Workshops
+#### -- Information Security Workshops
 
 The [Human Data Commons Foundation](http://www.humandatacommons.org) is currently in discussions with various partner organizations, working to design and implement workshops on information security and privacy. The intro level courses will be targeted to people who are first-time users of online bank accounts and who have had very little exposure to tech education. Intermediate workshops will help enhance users' awareness of their own rights, the industry best practices they can demand, and more advanced tools and methods they can use to protect their privacy online. Please get in touch if you're interested in contributing to this project, or in having us implement it for your organization when it's fully formed [approximately Fall 2017!].
 
