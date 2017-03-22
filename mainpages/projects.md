@@ -15,7 +15,7 @@ nav_txt_color: rgb(1, 47, 107)
 
 There are many exciting developments afoot within the decentralization community in Vancouver, BC. The week of April 3-8th, for example, has turned into a veritable **Blockstravaganza**, with multiple blockchain-focused events.
 
-**[April 4: IEEE Blockchain Special Interest Group Presents the First Annual Blockchain Industry Summit - ](http://blockchain.ieee.org/2017-blockchain-summit/)**
+**[April 4: IEEE Blockchain Special Interest Group Presents the First Annual Blockchain Industry Summit](http://blockchain.ieee.org/2017-blockchain-summit/)**
 
 **[April 5: Human Data Commons Foundation (in association with IEEE) Presents the Blockchain "BCSides" Free Community Event](http://stuckincyber.space/2017/bcsides2017)**
 
@@ -31,7 +31,7 @@ Additionally, **dctrl hackerspace** has frequent events, and you can keep track 
 
 ### - Dissemination of General Blockchain Resources
 
-I have compiled a "living document" of intro to blockchain resources and opportunities to engage in the space, [located here](http://stuckincyber.space/2017/blockchain_resource_sheet_2017) -- I welcome suggestions for further links, please post [as comments on the relevant github issue](https://github.com/chiselinc/stuckincyberspace/issues/4).
+**I have compiled a "living document" of intro to blockchain resources and opportunities to engage in the space, [located here](http://stuckincyber.space/2017/blockchain_resource_sheet_2017)** -- I welcome suggestions for further links, please post [as comments on the relevant github issue](https://github.com/chiselinc/stuckincyberspace/issues/4).
 
 ### - Curriculum for Widespread and Decentralized Implementation
 

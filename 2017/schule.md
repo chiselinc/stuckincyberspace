@@ -5,7 +5,9 @@ txt_color: rgb(1, 47, 107)
 nav_color: rgba(23,23,255,0.4)
 nav_txt_color: rgb(1, 47, 107)
 ---
-# Scroll down for March content calendar!
+# Drop in Global Free School Prototype
+
+## Scroll down for March 2017 calendar!
 
 ![Drop in Global Free School promo](/images/2017projects/dctrl_freischule.png)
 
