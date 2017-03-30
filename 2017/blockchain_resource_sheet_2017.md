@@ -20,7 +20,7 @@ The first week of April has turned into a regular **blockstravaganza**, with mul
 
 **[April 5: Human Data Commons Foundation (in association with IEEE) Presents the Blockchain "BCSides" Free Community Event](http://stuckincyber.space/2017/bcsides2017)**
 
-**[April 5 (Evening): Decentralized Autonomous Soiree]() -- MORE INFO TO COME, it will be a rollicking good time at dctrl with homebrewed beer!**
+**[April 5 (Evening): Decentralized Autonomous Soiree: When Blockchain Worlds Collide](https://www.picatic.com/VanBCSides2017) It will be a rollicking good time at dctrl with homebrewed beer!**
 
 **[April 7 & 8: Local Node of Global Coinfest 2017](https://www.meetup.com/bitcoinvan/events/237974269/)**
 
@@ -67,6 +67,8 @@ Feel free, as stated above, to suggest more links to add to this list by [submit
 * [Digital Futures' Spectacular 'Diginomics' Glossary for the Digital Economy](http://digitalfutures.co/diginomics/)
 
 * [IEEE’s Intro to Blockchain Webinar – Greg Adamson & Jonathan Mohan, December 2016](https://ieeetv.ieee.org/ieeetv-specials/introduction-to-blockchain)
+
+* [Collection of links to the most useful whitepapers in the bitcoin/blockchain field](http://thefinanser.com/2016/02/the-best-free-research-papers-on-fintech-and-blockchain.html/)
 
 * [Don and Alex Tapscott's Feb 2017 Report on Blockchain Thriving in Canada (in association with Digital Futures)](http://dontapscott.com/BlockchainCorridorReport.pdf)
 

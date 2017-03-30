@@ -43,6 +43,10 @@ From March 20 to April 20, I am conducting an early test run for an ideally long
 
 The [Human Data Commons Foundation](http://www.humandatacommons.org) is currently in discussions with various partner organizations, working to design and implement workshops on information security and privacy. The intro level courses will be targeted to people who are first-time users of online bank accounts and who have had very little exposure to tech education. Intermediate workshops will help enhance users' awareness of their own rights, the industry best practices they can demand, and more advanced tools and methods they can use to protect their privacy online. Please get in touch if you're interested in contributing to this project, or in having us implement it for your organization when it's fully formed [approximately Fall 2017!].
 
+#### + Educational Nerd Rap
+
+The [whole msGNU thing](http://stuckincyber.space/mainpages/msGNU) is indeed intended as a goof and a spoof. 
+
 
 ## Activism and Large Scale Vision
 
