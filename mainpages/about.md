@@ -12,9 +12,7 @@ nav_txt_color: rgb(1, 47, 107)
 
 <h1 id='prof'> Professional </h1>
 
-### My three core passions are education, activism, and forging alliances.
-
-I am the Acting Executive Director of the [Human Data Commons Foundation](http://www.humandatacommons.org), a nonprofit focused on user rights and social good research in the age of biometric data tracking.
+### My three core passions are education, activism, and forging interdisciplinary alliances.
 
 If you're looking for information on my professional accomplishments and interests, the most useful place would probably be my [LinkedIn page](https://ca.linkedin.com/in/chelsea-palmer-79280ab5).
 
