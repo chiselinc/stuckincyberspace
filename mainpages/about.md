@@ -8,9 +8,9 @@ nav_txt_color: rgb(1, 47, 107)
 
 # **About Me (Chelsea Palmer)**
 
-# [Professional](#prof) --- [Thank Yous](#thanks) --- [Personal](#pers) --- [What is GNU?](#GNU)
+### [Professional](#prof) --- [Thank Yous](#thanks) --- [Personal](#pers) --- [What is GNU?](#GNU)
 
-<h1 id='prof'> Professional </h1>
+<h2 id='prof'> Professional </h2>
 
 ### My three core passions are education, activism, and forging interdisciplinary alliances.
 
@@ -27,7 +27,7 @@ If you're looking for information on my professional accomplishments and interes
 I use primarily Creative Commons and Public Domain licensed footage in my work; unfortunately, there is a dearth of that on current day Youtube (something I hope to help change!). In some cases, I have used content that is listed under the Standard YouTube License, in the understanding that short-form sampling for educational rap would be considered Fair Use. Please contact me at IM.ms.GNU@gmail.com if you disagree and would like me to remove your footage from my videos.
 
 
-<h1 id='thanks'> Thank Yous </h1>
+<h2 id='thanks'> Thank Yous </h2>
 
 I owe everything in my life to my family. A loving mother who sweetly, selflessly takes care of the people around her. A badass father who will stand up, and work for, what's right, no matter what. A super cool older brother who introduced me to amazing music and film long before I would have found it on my own. An awesome and funny extended family.
 
@@ -43,7 +43,7 @@ I never could have completed my thesis project, and thus this follow-up, without
 
 
 
-<h1 id='pers'> Personal </h1>
+<h2 id='pers'> Personal </h2>
 
 {:.shrinkpic}
 ![Screenshot from "Peep Show"](/images/normal_human_peepshow.jpg)
@@ -61,7 +61,7 @@ I never could have completed my thesis project, and thus this follow-up, without
 If we can’t rally the masses for informed and purposeful adoption of innovative technology, the greatest strides we make will be drowned out by the increasingly siloed realm of the consumerist and surveillance-driven Web. Maybe more stakeholders will climb on board if we take ourselves much less seriously.
 
 
-<h1 id='GNU'> What is GNU? </h1>
+<h2 id='GNU'> What is GNU? </h2>
 
 What's GNU? [GNU's Not Unix!](https://www.gnu.org/gnu/manifesto.en.html)
 
