@@ -6,8 +6,8 @@ nav_color: rgb(244, 124, 44)
 nav_txt_color: rgb(1, 47, 107)
 ---
 
-# **Homesite of Chelsea Palmer [aka msGNU]**
-This is where all my stuff lives-- personal, professional, musical, and academic. Feel free to poke around. The primary content, at present, is related to the 2015-2016 project "Stuck in Cyberspace," originally a Master's Thesis which was transformed into a nine song nerd rap album.
+# **Chelsea Palmer [aka msGNU] presents "Stuck in Cyberspace"**
+The primary contents of this site are related to the 2015-2016 project "Stuck in Cyberspace," originally a Master's Thesis which was transformed into a nine song nerd rap album. It's an educational journey through the history of computer technology, its social effects on human beings, and a touch of Foucauldian theory!
 
 I made a video for each song, as well-- the entire playlist is embedded below, or visit the "SiC album" navigation link above to check out individual video pages!
 
